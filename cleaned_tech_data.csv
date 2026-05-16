@@ -1,0 +1,1154 @@
+Country,ConvertedCompYearly,RemoteWork,YearsCodePro,Employment,LanguageHaveWorkedWith,AISelect,SalaryCategory,ExperienceLevel
+Brazil,170000.0,Remote,17,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Elixir;JavaScript;TypeScript,Yes,High,Senior
+Brazil,37297.0,Remote,12,"Employed, full-time",HTML/CSS;JavaScript;SQL;TypeScript,Yes,Medium,Senior
+Peru,79218.0,"Hybrid (some remote, some in-person)",13,"Employed, full-time",Go;Groovy;HTML/CSS;Java;JavaScript;Kotlin;Python;Ruby;SQL;Swift;TypeScript,Yes,High,Senior
+Brazil,10630.0,Remote,11,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;SQL;TypeScript,Yes,Low,Senior
+Brazil,10070.0,In-person,4,"Employed, full-time",Bash/Shell (all shells);C;C#;Go;Java;JavaScript;PHP;PowerShell;Ruby;Rust;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,49233.0,Remote,38,"Employed, full-time",Java;JavaScript;Kotlin;TypeScript,Yes,Medium,Senior
+Brazil,34609.0,Remote,3,"Employed, full-time",HTML/CSS;JavaScript;SQL;TypeScript,"No, but I plan to soon",Medium,Semi Senior
+Mexico,49354.0,Remote,13,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;JavaScript;PowerShell;SQL;TypeScript,Yes,Medium,Senior
+Brazil,33568.0,Remote,21,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Python;R;Scala;SQL,Yes,Medium,Senior
+Mexico,31483.0,Remote,9,"Employed, full-time",C#;Python,"No, but I plan to soon",Medium,Senior
+Argentina,24000.0,"Hybrid (some remote, some in-person)",19,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C;C#;C++;Dart;Delphi;HTML/CSS;Java;JavaScript;Kotlin;Objective-C;Perl;PHP;Python;Rust;SQL;Swift;Visual Basic (.Net),Yes,Medium,Senior
+Brazil,52800.0,Remote,12,"Employed, full-time",HTML/CSS;JavaScript;Ruby;SQL,Yes,Medium,Senior
+Brazil,18462.0,"Hybrid (some remote, some in-person)",27,"Employed, full-time",C#;Delphi;HTML/CSS;SQL;VBA,"No, and I don't plan to",Low,Senior
+Argentina,105000.0,Remote,14,"Employed, full-time",HTML/CSS;JavaScript;Ruby;TypeScript,"No, and I don't plan to",High,Senior
+Argentina,53541.0,Remote,36,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);HTML/CSS;JavaScript;TypeScript,"No, but I plan to soon",Medium,Senior
+Mexico,15095.0,In-person,11,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;Java;JavaScript;Objective-C;Python;SQL;Swift,"No, and I don't plan to",Low,Senior
+Brazil,23311.0,Remote,8,"Employed, full-time",C#;HTML/CSS;Java;JavaScript,"No, but I plan to soon",Medium,Senior
+Brazil,96227.0,Remote,15,"Employed, full-time",C#;HTML/CSS;JavaScript,"No, but I plan to soon",High,Senior
+Colombia,50467.0,Remote,14,"Employed, full-time",Bash/Shell (all shells);Groovy;HTML/CSS;Java;JavaScript;PowerShell;Python;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,81681.0,Remote,5,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Python,Yes,High,Semi Senior
+Brazil,18649.0,In-person,15,"Employed, full-time",Assembly;C#;C++;JavaScript;Python;SQL;VBA;Visual Basic (.Net),Yes,Low,Senior
+Brazil,130541.0,Remote,10,"Employed, full-time",Bash/Shell (all shells);C;C++;Go;Objective-C;PowerShell,Yes,High,Senior
+Argentina,27934.0,"Hybrid (some remote, some in-person)",16,"Employed, full-time",C#;HTML/CSS;JavaScript;PowerShell;Python;SQL,"No, and I don't plan to",Medium,Senior
+Mexico,70000.0,Remote,7,"Employed, full-time",Ruby;Scala;SQL,"No, and I don't plan to",High,Senior
+Brazil,18649.0,Remote,5,"Employed, full-time",Go;SQL,Yes,Low,Semi Senior
+Brazil,60235.0,"Hybrid (some remote, some in-person)",15,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;Python;SQL,Yes,High,Senior
+Brazil,35806.0,"Hybrid (some remote, some in-person)",14,"Employed, full-time",Assembly;C#;JavaScript;PHP;PowerShell;Python;SQL;TypeScript,Yes,Medium,Senior
+Brazil,41960.0,"Hybrid (some remote, some in-person)",11,"Employed, full-time",HTML/CSS;JavaScript;SQL;TypeScript,Yes,Medium,Senior
+Brazil,6714.0,Remote,Less than 1 year,"Employed, full-time",Dart;HTML/CSS;JavaScript;SQL,Yes,Low,Unknown
+Brazil,50911.0,Remote,15,"Employed, full-time",Bash/Shell (all shells);Go;HTML/CSS;Java;JavaScript;Kotlin;SQL;TypeScript,"No, and I don't plan to",Medium,Senior
+Mexico,59515.0,Remote,16,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;PowerShell;SQL,"No, and I don't plan to",Medium,Senior
+Argentina,25000.0,Remote,13,"Employed, full-time",Bash/Shell (all shells);JavaScript;Python;Ruby,"No, and I don't plan to",Medium,Senior
+Argentina,15000.0,Remote,44,"Independent contractor, freelancer, or self-employed;Retired",Assembly;Bash/Shell (all shells);C;C++;Python,Yes,Low,Senior
+Brazil,11189.0,In-person,8,"Employed, full-time",C#;HTML/CSS;SQL,"No, but I plan to soon",Low,Senior
+Mexico,43127.0,Remote,10,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;PowerShell;Python;Ruby;SQL;TypeScript,Yes,Medium,Senior
+Brazil,33568.0,"Hybrid (some remote, some in-person)",14,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;PowerShell;SQL,Yes,Medium,Senior
+Brazil,8951.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",Groovy;HTML/CSS;JavaScript;PowerShell;Python;SQL,Yes,Low,Semi Senior
+Argentina,5543.0,"Hybrid (some remote, some in-person)",37,"Employed, full-time",C#;JavaScript;PowerShell,"No, but I plan to soon",Low,Senior
+Brazil,26854.0,Remote,8,"Employed, full-time;Independent contractor, freelancer, or self-employed;Student, part-time",C#,"No, but I plan to soon",Medium,Senior
+Brazil,16112.0,Remote,9,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;JavaScript;SQL,"No, and I don't plan to",Low,Senior
+Brazil,36365.0,Remote,10,"Employed, full-time",PHP;TypeScript,"No, and I don't plan to",Medium,Senior
+Brazil,15974.0,Remote,12,"Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;SQL,"No, but I plan to soon",Low,Senior
+Brazil,65271.0,"Hybrid (some remote, some in-person)",9,"Employed, full-time",Bash/Shell (all shells);Clojure;HTML/CSS;JavaScript;Ruby,Yes,High,Senior
+Brazil,5576.0,"Hybrid (some remote, some in-person)",8,"Employed, full-time",Bash/Shell (all shells);C;C++;HTML/CSS;Java;JavaScript;Lua;PowerShell;Python;Rust;Swift,Yes,Low,Senior
+Argentina,110000.0,Remote,19,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,High,Senior
+Argentina,50000.0,Remote,35,"Employed, full-time",Bash/Shell (all shells);Python;SQL,Yes,Medium,Senior
+Mexico,59300.0,Remote,4,"Employed, full-time",Go;HTML/CSS;JavaScript;Lua;Ruby;Rust;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,29092.0,Remote,9,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL,Yes,Medium,Senior
+Argentina,13302.0,"Hybrid (some remote, some in-person)",2,"Employed, full-time",HTML/CSS;JavaScript;TypeScript,Yes,Low,Junior
+Brazil,13054.0,Remote,10,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP,Yes,Low,Senior
+Brazil,29092.0,Remote,19,"Employed, full-time",Bash/Shell (all shells);C;C#;C++;GDScript;Go;Lua;Python,"No, and I don't plan to",Medium,Senior
+Mexico,45284.0,Remote,18,"Employed, full-time",Bash/Shell (all shells);Groovy;Java;JavaScript;Kotlin;Python;SQL,Yes,Medium,Senior
+Colombia,9589.0,In-person,3,"Employed, full-time",HTML/CSS;JavaScript;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,24616.0,In-person,16,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;Kotlin;PowerShell;Python;SQL;Visual Basic (.Net),Yes,Medium,Senior
+Mexico,75473.0,Remote,8,"Employed, full-time",JavaScript;SQL;Swift;TypeScript,Yes,High,Senior
+Chile,31195.0,"Hybrid (some remote, some in-person)",8,"Employed, full-time",C#;HTML/CSS;JavaScript;Python;SQL,Yes,Medium,Senior
+Peru,39609.0,Remote,10,"Employed, full-time",C#;Java;JavaScript;TypeScript,Yes,Medium,Senior
+Uruguay,4009.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time;Independent contractor, freelancer, or self-employed",C++;Dart;Objective-C;SQL;Swift,"No, but I plan to soon",Low,Semi Senior
+Brazil,4010.0,In-person,Less than 1 year,"Employed, full-time",HTML/CSS;JavaScript;PHP,Yes,Low,Unknown
+Peru,31687.0,Remote,4,"Employed, full-time;Independent contractor, freelancer, or self-employed",JavaScript;Ruby,Yes,Medium,Semi Senior
+Mexico,43127.0,Remote,5,"Employed, full-time",JavaScript;TypeScript,"No, but I plan to soon",Medium,Semi Senior
+Argentina,126000.0,Remote,12,"Independent contractor, freelancer, or self-employed",Swift,Yes,High,Senior
+Brazil,14360.0,Remote,4,"Employed, full-time;Student, part-time",Java;JavaScript;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,27973.0,Remote,4,"Employed, full-time",Bash/Shell (all shells);Python;SQL,"No, and I don't plan to",Medium,Semi Senior
+Brazil,83919.0,"Hybrid (some remote, some in-person)",33,"Employed, full-time",C;Lisp;Prolog;Python,"No, and I don't plan to",High,Senior
+Peru,26406.0,Remote,6,"Independent contractor, freelancer, or self-employed",SQL,Yes,Medium,Semi Senior
+Brazil,44757.0,"Hybrid (some remote, some in-person)",9,"Employed, full-time",Bash/Shell (all shells);Python,Yes,Medium,Senior
+Uruguay,68400.0,Remote,5,"Employed, full-time",Bash/Shell (all shells);Python;TypeScript,Yes,High,Semi Senior
+Brazil,199703.0,Remote,10,"Employed, full-time;Student, part-time",HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,High,Senior
+Colombia,54504.0,Remote,6,"Employed, full-time",Scala;TypeScript,"No, and I don't plan to",Medium,Semi Senior
+Brazil,78325.0,"Hybrid (some remote, some in-person)",17,"Employed, full-time",Bash/Shell (all shells);Go;JavaScript;PHP;Python;Ruby;TypeScript,Yes,High,Senior
+Colombia,70000.0,Remote,10,"Employed, full-time;Independent contractor, freelancer, or self-employed",Go;JavaScript;Python;Rust;TypeScript,Yes,High,Senior
+Brazil,90000.0,Remote,12,"Independent contractor, freelancer, or self-employed",C#;JavaScript;SQL,Yes,High,Senior
+Uruguay,96000.0,Remote,11,"Employed, full-time",Java;Python;Scala,Yes,High,Senior
+Brazil,11189.0,Remote,15,"Employed, full-time",Bash/Shell (all shells);C;Dart;Java;JavaScript;Lua;MATLAB;PHP;Python;R;SQL;TypeScript,Yes,Low,Senior
+Brazil,29092.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",Assembly;Bash/Shell (all shells);C;Groovy;HTML/CSS;Java;JavaScript;PHP;PowerShell;Python;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,6490.0,"Hybrid (some remote, some in-person)",Less than 1 year,"Employed, part-time",Bash/Shell (all shells);Dart;GDScript;Go;JavaScript;Lua;Python;Rust;TypeScript,"No, and I don't plan to",Low,Unknown
+Brazil,27078.0,Remote,7,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Python;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,20607.0,Remote,3,"Employed, full-time;Student, part-time",JavaScript;Ruby;TypeScript,"No, and I don't plan to",Medium,Semi Senior
+Brazil,13427.0,Remote,3,"Employed, full-time",Kotlin;Python;SQL,"No, and I don't plan to",Low,Semi Senior
+Mexico,70082.0,"Hybrid (some remote, some in-person)",11,"Employed, full-time",HTML/CSS;Java;JavaScript;TypeScript,Yes,High,Senior
+Mexico,102427.0,Remote,19,"Employed, full-time",C#;JavaScript;SQL,"No, but I plan to soon",High,Senior
+Brazil,84000.0,Remote,8,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Go;Java;JavaScript;Python,Yes,High,Senior
+Argentina,19953.0,Remote,4,"Employed, full-time",C;Go;Groovy;HTML/CSS;Java;JavaScript;Python,Yes,Low,Semi Senior
+Chile,97484.0,Remote,13,"Employed, full-time",C#;Go;HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,High,Senior
+Brazil,24616.0,Remote,16,"Employed, full-time",HTML/CSS;JavaScript;PHP,"No, and I don't plan to",Medium,Senior
+Brazil,13054.0,In-person,5,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Crystal;HTML/CSS;JavaScript;Python;SQL,"No, and I don't plan to",Low,Semi Senior
+Brazil,11189.0,In-person,3,"Employed, full-time",Bash/Shell (all shells);C#;HTML/CSS;Java;JavaScript;Python;SQL,Yes,Low,Semi Senior
+Brazil,55946.0,Remote,30,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;PowerShell;SQL,Yes,Medium,Senior
+Chile,38994.0,In-person,4,"Employed, full-time",Python,"No, and I don't plan to",Medium,Semi Senior
+Brazil,65303.0,Remote,5,"Employed, full-time",Elixir;HTML/CSS;JavaScript;Ruby;TypeScript,Yes,High,Semi Senior
+Brazil,30211.0,Remote,6,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,4028.0,In-person,Less than 1 year,"Employed, full-time;Student, full-time",HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript,Yes,Low,Unknown
+Mexico,57143.0,In-person,35,"Employed, full-time",Dart;Delphi;Elixir;HTML/CSS,Yes,Medium,Senior
+Argentina,72000.0,"Hybrid (some remote, some in-person)",24,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;PHP;Python;Scala;SQL;TypeScript,Yes,High,Senior
+Brazil,186487.0,Remote,18,"Employed, full-time",HTML/CSS;JavaScript;Python;SQL,Yes,High,Senior
+Brazil,33568.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PowerShell;Python;R;SQL;VBA,Yes,Medium,Semi Senior
+Brazil,17343.0,"Hybrid (some remote, some in-person)",17,"Employed, full-time",Bash/Shell (all shells);C++;Groovy;Java;JavaScript;Rust;SQL,Yes,Low,Senior
+Argentina,55000.0,Remote,5,"Employed, full-time",Bash/Shell (all shells);Go;HTML/CSS;JavaScript;Python;SQL;TypeScript,"No, and I don't plan to",Medium,Semi Senior
+Brazil,44757.0,"Hybrid (some remote, some in-person)",25,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;Ruby,Yes,Medium,Senior
+Brazil,20514.0,Remote,4,"Employed, full-time",Go;Java;Python,Yes,Medium,Semi Senior
+Brazil,55946.0,Remote,8,"Employed, full-time",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,41027.0,Remote,8,"Employed, full-time",Bash/Shell (all shells);C#;Java;JavaScript;PowerShell;Python;Ruby;SQL;TypeScript,Yes,Medium,Senior
+Mexico,42049.0,"Hybrid (some remote, some in-person)",9,"Employed, full-time;Independent contractor, freelancer, or self-employed",Python;VBA,Yes,Medium,Senior
+Brazil,16784.0,Remote,3,"Employed, full-time",Bash/Shell (all shells);Go;HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,25250.0,Remote,3,"Employed, full-time",Bash/Shell (all shells);Groovy;HTML/CSS;Java;JavaScript;Python;SQL,Yes,Medium,Semi Senior
+Brazil,6714.0,"Hybrid (some remote, some in-person)",1,"Student, part-time;Employed, part-time",Bash/Shell (all shells);C;Go;HTML/CSS;JavaScript;PHP;PowerShell;Python;Rust;SQL;TypeScript,"No, and I don't plan to",Low,Junior
+Brazil,5051.0,In-person,1,"Employed, full-time;Independent contractor, freelancer, or self-employed;Student, part-time",HTML/CSS;JavaScript;TypeScript,Yes,Low,Junior
+Brazil,6937.0,Remote,1,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;PowerShell;Python;SQL;TypeScript,Yes,Low,Junior
+Argentina,3326.0,"Hybrid (some remote, some in-person)",22,"Employed, full-time",Bash/Shell (all shells);C;C#;C++;HTML/CSS;Java;JavaScript;MicroPython;Python;SQL;TypeScript;VBA,Yes,Low,Senior
+Brazil,27973.0,Remote,10,"Employed, full-time",Bash/Shell (all shells);C++;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript,Yes,Medium,Senior
+Colombia,6510.0,Remote,6,"Employed, full-time",HTML/CSS;Java;JavaScript;PHP;PowerShell;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,56000.0,Remote,5,"Employed, full-time",C;Dart;Elixir;JavaScript;Python;SQL,Yes,Medium,Semi Senior
+Argentina,24746.0,In-person,18,"Independent contractor, freelancer, or self-employed",,Yes,Medium,Senior
+Argentina,6800.0,Remote,16,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Low,Senior
+Brazil,8951.0,In-person,3,"Employed, full-time",C#;HTML/CSS;Java;JavaScript;PHP;PowerShell;TypeScript;Visual Basic (.Net),Yes,Low,Semi Senior
+Colombia,6561.0,In-person,Less than 1 year,"Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;PHP;Python;SQL,Yes,Low,Unknown
+Uruguay,40000.0,"Hybrid (some remote, some in-person)",7,"Employed, full-time",Dart;HTML/CSS;JavaScript,Yes,Medium,Senior
+Colombia,17663.0,Remote,2,"Employed, full-time;Independent contractor, freelancer, or self-employed",Groovy;HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Low,Junior
+Brazil,1678.0,Remote,5,"Employed, full-time",HTML/CSS;JavaScript;Python;TypeScript,"No, and I don't plan to",Low,Semi Senior
+Brazil,38267.0,Remote,6,"Employed, full-time;Student, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C;C++;Delphi;Go;Python;SQL,"No, and I don't plan to",Medium,Semi Senior
+Brazil,9324.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",Bash/Shell (all shells);C#;F#;HTML/CSS;Java;JavaScript;Perl;PowerShell;Python;SQL;TypeScript;VBA;Visual Basic (.Net),Yes,Low,Semi Senior
+Brazil,3357.0,Remote,Less than 1 year,"Student, part-time;Employed, part-time",C++;HTML/CSS;JavaScript;Python;TypeScript,Yes,Low,Unknown
+Brazil,41960.0,Remote,24,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;Java;JavaScript,"No, and I don't plan to",Medium,Senior
+Brazil,36000.0,Remote,3,"Employed, full-time",HTML/CSS;JavaScript;Ruby;SQL,"No, and I don't plan to",Medium,Semi Senior
+Brazil,33568.0,Remote,20,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C++;HTML/CSS;JavaScript;PHP;Python;SQL,"No, and I don't plan to",Medium,Senior
+Brazil,124800.0,Remote,13,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;HTML/CSS;SQL;Visual Basic (.Net),Yes,High,Senior
+Brazil,3730.0,Remote,15,"Employed, full-time;Student, part-time",C;C#;Dart;HTML/CSS;Java;JavaScript;PHP;Ruby;Rust;TypeScript,Yes,Low,Senior
+Colombia,50000.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C#;Go;Groovy;HTML/CSS;Java;JavaScript;PowerShell;Python;TypeScript,Yes,Medium,Semi Senior
+Brazil,16168.0,Remote,11,"Employed, full-time",HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript,"No, but I plan to soon",Low,Senior
+Brazil,57203.0,Remote,10,"Employed, full-time",Bash/Shell (all shells);C;HTML/CSS;Java;JavaScript;Python,"No, but I plan to soon",Medium,Senior
+Mexico,8625.0,Remote,14,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;Python;Ruby;SQL;TypeScript,Yes,Low,Senior
+Argentina,83138.0,Remote,20,"Employed, full-time",Java;JavaScript;SQL;TypeScript,"No, and I don't plan to",High,Senior
+Brazil,3730.0,Remote,7,"Employed, full-time;Independent contractor, freelancer, or self-employed",JavaScript;PHP,Yes,Low,Senior
+Brazil,20141.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time",HTML/CSS;Java;JavaScript;PHP;Python;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,13987.0,Remote,12,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Java;SQL,"No, but I plan to soon",Low,Senior
+Peru,52812.0,Remote,15,"Employed, full-time",C#;HTML/CSS;JavaScript,"No, and I don't plan to",Medium,Senior
+Argentina,60000.0,Remote,10,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;JavaScript;SQL;TypeScript;Visual Basic (.Net),Yes,High,Senior
+Brazil,33568.0,Remote,Less than 1 year,"Employed, part-time",Bash/Shell (all shells);C#;C++;Haskell;HTML/CSS;Java;JavaScript;PHP;Visual Basic (.Net),"No, but I plan to soon",Medium,Unknown
+Colombia,30000.0,Remote,2,"Employed, full-time",Bash/Shell (all shells);Java;JavaScript;Python;TypeScript,Yes,Medium,Junior
+Brazil,67135.0,Remote,18,"Employed, full-time;Independent contractor, freelancer, or self-employed",Go,Yes,High,Senior
+Brazil,26108.0,Remote,7,"Employed, full-time",Bash/Shell (all shells);C#;SQL,"No, but I plan to soon",Medium,Senior
+Brazil,18649.0,"Hybrid (some remote, some in-person)",16,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Python;SQL,Yes,Low,Senior
+Brazil,2797.0,Remote,20,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP;SQL,"No, but I plan to soon",Low,Senior
+Brazil,26854.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time",C#;HTML/CSS;JavaScript;Python;Rust;TypeScript,"No, but I plan to soon",Medium,Semi Senior
+Mexico,30189.0,In-person,2,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Python,Yes,Medium,Junior
+Brazil,4924.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",HTML/CSS;Java;JavaScript;Python;SQL,Yes,Low,Semi Senior
+Argentina,120000.0,Remote,10,"Independent contractor, freelancer, or self-employed",Dart;Kotlin,"No, and I don't plan to",High,Senior
+Mexico,129381.0,Remote,26,"Employed, full-time",Bash/Shell (all shells);Groovy;HTML/CSS;Java;JavaScript;Kotlin;SQL;Swift;TypeScript,Yes,High,Senior
+Brazil,52216.0,Remote,12,"Employed, full-time",C#;JavaScript;TypeScript,Yes,Medium,Senior
+Mexico,72777.0,Remote,4,"Employed, full-time",Bash/Shell (all shells);Java;JavaScript;PowerShell;Python;Scala;SQL,Yes,High,Semi Senior
+Argentina,55000.0,Remote,5,"Employed, full-time",Bash/Shell (all shells);Go;HTML/CSS;JavaScript;Python;SQL;TypeScript,"No, and I don't plan to",Medium,Semi Senior
+Brazil,37297.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C#;Go;Groovy;HTML/CSS;Java;JavaScript;Kotlin;PHP;Python;Scala;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,37297.0,"Hybrid (some remote, some in-person)",22,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;PHP;Python;SQL;TypeScript,Yes,Medium,Senior
+Brazil,99398.0,Remote,17,"Employed, full-time",Elixir;Ruby,Yes,High,Senior
+Brazil,16784.0,Remote,14,"Employed, full-time",Bash/Shell (all shells);Dart;HTML/CSS;Java;JavaScript;PowerShell;Python;Rust;SQL;TypeScript,Yes,Low,Senior
+Brazil,130541.0,"Hybrid (some remote, some in-person)",15,"Independent contractor, freelancer, or self-employed",Python;R;VBA,"No, but I plan to soon",High,Senior
+Uruguay,50000.0,Remote,13,"Employed, full-time",Assembly;Go;HTML/CSS;JavaScript;Python;TypeScript,Yes,Medium,Senior
+Mexico,16173.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time;Student, part-time",Bash/Shell (all shells);Go;HTML/CSS;Java;JavaScript;Python;Ruby;Rust;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,6714.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",C++;HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Uruguay,115000.0,Remote,14,"Employed, full-time;Independent contractor, freelancer, or self-employed",Go;Groovy;Java;Kotlin;Python;SQL;TypeScript,Yes,High,Senior
+Chile,25996.0,Remote,17,"Employed, full-time",Bash/Shell (all shells);Go;Groovy;HTML/CSS;Java;JavaScript;Perl;Python;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Mexico,30000.0,In-person,5,"Employed, full-time",C#;SQL,Yes,Medium,Semi Senior
+Chile,45492.0,Remote,8,"Employed, full-time",HTML/CSS;JavaScript;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,12122.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",C#;HTML/CSS;Java;JavaScript;MATLAB;PowerShell;Python;SQL,Yes,Low,Semi Senior
+Brazil,14919.0,"Hybrid (some remote, some in-person)",30,"Employed, full-time;Employed, part-time",Ada;Apex;Assembly;Bash/Shell (all shells);C;C++;Cobol;Fortran,Yes,Low,Senior
+Peru,21125.0,Remote,7,"Employed, full-time",C;C++;Elixir;HTML/CSS;JavaScript;Lua;TypeScript,Yes,Medium,Senior
+Mexico,32345.0,Remote,13,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Kotlin;PHP;SQL;Swift,Yes,Medium,Senior
+Brazil,132000.0,Remote,12,"Employed, full-time;Independent contractor, freelancer, or self-employed",Elixir;Erlang,"No, and I don't plan to",High,Senior
+Brazil,16187.0,Remote,3,"Employed, full-time",HTML/CSS;JavaScript;TypeScript,Yes,Low,Semi Senior
+Brazil,16784.0,Remote,7,"Independent contractor, freelancer, or self-employed",C#;R,"No, but I plan to soon",Low,Senior
+Brazil,14919.0,Remote,5,"Employed, full-time;Independent contractor, freelancer, or self-employed",C++;HTML/CSS;JavaScript;TypeScript,Yes,Low,Semi Senior
+Chile,91295.0,Remote,15,"Employed, full-time",Go;HTML/CSS;JavaScript;TypeScript,"No, but I plan to soon",High,Senior
+Argentina,28821.0,"Hybrid (some remote, some in-person)",35,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;PHP;SQL,"No, and I don't plan to",Medium,Senior
+Mexico,19407.0,Remote,3,"Employed, full-time",HTML/CSS;JavaScript;PHP;TypeScript,Yes,Low,Semi Senior
+Argentina,30000.0,Remote,16,"Employed, full-time;Independent contractor, freelancer, or self-employed",JavaScript;PHP;Python;SQL,"No, and I don't plan to",Medium,Senior
+Brazil,38789.0,"Hybrid (some remote, some in-person)",20,"Employed, full-time",HTML/CSS;JavaScript;PowerShell;TypeScript,"No, and I don't plan to",Medium,Senior
+Brazil,31703.0,"Hybrid (some remote, some in-person)",25,"Employed, full-time",Java;SQL,"No, and I don't plan to",Medium,Senior
+Brazil,19395.0,Remote,10,"Employed, full-time",C#;C++;SQL;TypeScript,"No, but I plan to soon",Low,Senior
+Brazil,55946.0,Remote,16,"Employed, full-time",Java;Python,Yes,Medium,Senior
+Brazil,21819.0,Remote,8,"Employed, full-time",Bash/Shell (all shells);JavaScript;Python;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,35806.0,Remote,24,"Employed, full-time",C#;C++;HTML/CSS;JavaScript;Kotlin;PHP;Python;R;Ruby;SQL;TypeScript,Yes,Medium,Senior
+Colombia,45420.0,Remote,10,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Python;Ruby;SQL,Yes,Medium,Senior
+Brazil,27973.0,In-person,12,"Employed, full-time",Java;SQL,"No, but I plan to soon",Medium,Senior
+Argentina,30000.0,Remote,6,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Solidity;TypeScript,Yes,Medium,Semi Senior
+Mexico,64691.0,Remote,10,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;Python;SQL,"No, but I plan to soon",High,Senior
+Peru,17428.0,Remote,8,"Employed, full-time",C#;Java;JavaScript;SQL;TypeScript,"No, and I don't plan to",Low,Senior
+Mexico,103505.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",Clojure;Dart;Go;HTML/CSS;Java;JavaScript;Python;TypeScript,Yes,High,Semi Senior
+Brazil,46622.0,Remote,13,"Employed, full-time",Bash/Shell (all shells);Java;JavaScript;PHP;SQL;TypeScript,Yes,Medium,Senior
+Mexico,20378.0,Remote,4,"Employed, full-time",HTML/CSS;Java;JavaScript;SQL;TypeScript,Yes,Medium,Semi Senior
+Colombia,1262.0,Remote,3,"Employed, full-time",HTML/CSS;Java;JavaScript;SQL,Yes,Low,Semi Senior
+Chile,14662.0,"Hybrid (some remote, some in-person)",1,"Employed, full-time",HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Low,Junior
+Brazil,1865.0,Remote,3,"Independent contractor, freelancer, or self-employed;Student, part-time",Bash/Shell (all shells);C;Haskell;HTML/CSS;Rust,"No, and I don't plan to",Low,Semi Senior
+Colombia,100934.0,Remote,8,"Employed, full-time",,Yes,High,Senior
+Brazil,22378.0,In-person,12,"Employed, full-time;Independent contractor, freelancer, or self-employed",Python;Ruby;TypeScript,"No, and I don't plan to",Medium,Senior
+Argentina,6651.0,In-person,19,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP;SQL,"No, and I don't plan to",Low,Senior
+Brazil,20514.0,In-person,24,"Employed, full-time",C;C++;Delphi;JavaScript,Yes,Medium,Senior
+Brazil,7832.0,In-person,1,"Employed, full-time;Student, part-time",Java;JavaScript;TypeScript,Yes,Low,Junior
+Argentina,14411.0,"Hybrid (some remote, some in-person)",10,"Employed, full-time",Python,"No, but I plan to soon",Low,Senior
+Brazil,35433.0,"Hybrid (some remote, some in-person)",15,"Employed, full-time",Bash/Shell (all shells);C#;SQL,"No, but I plan to soon",Medium,Senior
+Brazil,22378.0,Remote,13,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP;PowerShell;SQL,Yes,Medium,Senior
+Brazil,12308.0,"Hybrid (some remote, some in-person)",20,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL,Yes,Low,Senior
+Brazil,13054.0,In-person,20,"Employed, full-time",Bash/Shell (all shells);Dart;Delphi;Java;JavaScript;Kotlin;PHP;SQL,Yes,Low,Senior
+Brazil,9324.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time",C#;SQL,"No, and I don't plan to",Low,Semi Senior
+Brazil,108163.0,Remote,9,"Employed, full-time",Java;Kotlin,Yes,High,Senior
+Argentina,42300.0,Remote,7,"Employed, full-time",Java;SQL,Yes,Medium,Senior
+Brazil,3294.0,In-person,1,"Employed, part-time",JavaScript;PHP;SQL;TypeScript,Yes,Low,Junior
+Brazil,84000.0,Remote,12,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);HTML/CSS;Java;SQL;TypeScript,Yes,High,Senior
+Brazil,18182.0,Remote,6,"Employed, full-time",JavaScript;PHP;Python;SQL;TypeScript,"No, but I plan to soon",Low,Semi Senior
+Brazil,104005.0,Remote,14,"Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;SQL;TypeScript,"No, and I don't plan to",High,Senior
+Argentina,60000.0,Remote,24,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript,"No, and I don't plan to",High,Senior
+Colombia,42653.0,Remote,26,"Employed, full-time",Bash/Shell (all shells);C#;Go;Java;JavaScript;Python;SQL,Yes,Medium,Senior
+Brazil,9324.0,Remote,3,"Employed, full-time",Go;HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript,"No, but I plan to soon",Low,Semi Senior
+Uruguay,43692.0,"Hybrid (some remote, some in-person)",8,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Dart;Go;HTML/CSS;Java;PowerShell;Prolog;Python;SQL,Yes,Medium,Senior
+Brazil,5595.0,Remote,4,"Employed, full-time",JavaScript;TypeScript,Yes,Low,Semi Senior
+Brazil,35433.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",Bash/Shell (all shells);C;Java;JavaScript;Python,Yes,Medium,Semi Senior
+Brazil,80000.0,Remote,10,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Go;HTML/CSS;Python;TypeScript,"No, and I don't plan to",High,Senior
+Brazil,14919.0,Remote,3,"Employed, full-time",Bash/Shell (all shells);C;C++;HTML/CSS;Java;SQL;TypeScript,"No, and I don't plan to",Low,Semi Senior
+Colombia,10093.0,Remote,7,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP;SQL;TypeScript,Yes,Low,Senior
+Brazil,23945.0,Remote,2,"Employed, full-time",Bash/Shell (all shells);Java;PowerShell;Python;SQL,Yes,Medium,Junior
+Argentina,130593.0,Remote,18,"Employed, full-time",Go;HTML/CSS;JavaScript;Ruby;TypeScript,Yes,High,Senior
+Brazil,28533.0,Remote,7,"Employed, full-time",GDScript;HTML/CSS;JavaScript;PHP;SQL;TypeScript,Yes,Medium,Senior
+Colombia,90000.0,Remote,22,"Employed, full-time",Java;JavaScript;Python;Ruby;SQL;TypeScript,"No, and I don't plan to",High,Senior
+Peru,30367.0,Remote,20,"Employed, full-time;Independent contractor, freelancer, or self-employed",Haskell;Java;JavaScript;TypeScript,Yes,Medium,Senior
+Mexico,43127.0,Remote,10,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL;TypeScript,Yes,Medium,Senior
+Brazil,91379.0,Remote,8,"Employed, full-time",Elixir;SQL,"No, and I don't plan to",High,Senior
+Colombia,14383.0,"Hybrid (some remote, some in-person)",2,"Employed, full-time",C#;Python,"No, and I don't plan to",Low,Junior
+Argentina,14411.0,Remote,20,"Employed, full-time",Assembly;Bash/Shell (all shells);C;C#;C++;Dart;Delphi;Groovy;HTML/CSS;Java;JavaScript;PHP;PowerShell;Python;SQL;TypeScript;Visual Basic (.Net),"No, and I don't plan to",Low,Senior
+Brazil,16784.0,In-person,6,"Employed, full-time;Student, part-time",HTML/CSS;Java;JavaScript;PHP;SQL,"No, but I plan to soon",Low,Semi Senior
+Brazil,27973.0,Remote,19,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;SQL;TypeScript,"No, and I don't plan to",Medium,Senior
+Brazil,14919.0,Remote,4,"Employed, full-time;Student, part-time",C#;JavaScript;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Mexico,35041.0,Remote,3,"Employed, full-time",Haskell;HTML/CSS;Java;Python;TypeScript,Yes,Medium,Semi Senior
+Mexico,30453.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);HTML/CSS;JavaScript;Python;SQL,"No, and I don't plan to",Medium,Semi Senior
+Mexico,64691.0,"Hybrid (some remote, some in-person)",10,"Employed, full-time",Bash/Shell (all shells);C;PowerShell;Python;SQL,"No, and I don't plan to",High,Senior
+Mexico,12938.0,Remote,5,"Employed, full-time",C#;Dart;HTML/CSS;Java;JavaScript;SQL;TypeScript,"No, and I don't plan to",Low,Semi Senior
+Chile,58490.0,Remote,5,"Employed, full-time",Bash/Shell (all shells);Groovy;Java;Scala;SQL,Yes,Medium,Semi Senior
+Brazil,15665.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;PHP;Python;SQL,Yes,Low,Semi Senior
+Chile,21663.0,Remote,4,"Employed, part-time",R,"No, and I don't plan to",Medium,Semi Senior
+Brazil,22378.0,In-person,3,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Python;SQL,Yes,Medium,Semi Senior
+Brazil,93244.0,"Hybrid (some remote, some in-person)",32,"Employed, full-time",Bash/Shell (all shells);C#;F#;HTML/CSS;Python;SQL;VBA,"No, and I don't plan to",High,Senior
+Brazil,7087.0,Remote,3,"Employed, full-time",C++;GDScript;Go;HTML/CSS;Java;JavaScript;Python;R;SQL;TypeScript,Yes,Low,Semi Senior
+Chile,41160.0,Remote,4,"Employed, full-time",Python,"No, and I don't plan to",Medium,Semi Senior
+Brazil,65271.0,"Hybrid (some remote, some in-person)",14,"Employed, full-time",C#;Go;JavaScript;Kotlin;SQL;Visual Basic (.Net),Yes,High,Senior
+Brazil,60976.0,"Hybrid (some remote, some in-person)",20,"Employed, full-time",Bash/Shell (all shells);C#;JavaScript;PHP;PowerShell;Visual Basic (.Net),Yes,High,Senior
+Brazil,47843.0,Remote,16,"Employed, full-time",Go;HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Medium,Senior
+Mexico,12615.0,In-person,20,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C#;GDScript;HTML/CSS;JavaScript;Lua;PHP;Python;Ruby;SQL,"No, but I plan to soon",Low,Senior
+Mexico,58238.0,Remote,10,"Employed, full-time",Go;SQL;Swift,"No, and I don't plan to",Medium,Senior
+Mexico,10782.0,Remote,3,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;SQL;TypeScript,Yes,Low,Semi Senior
+Mexico,10243.0,In-person,19,"Employed, full-time",HTML/CSS;JavaScript;Python;Ruby;SQL,Yes,Low,Senior
+Colombia,60560.0,Remote,21,"Independent contractor, freelancer, or self-employed",Dart;Kotlin,Yes,High,Senior
+Brazil,130541.0,Remote,21,"Employed, full-time",JavaScript;TypeScript,"No, but I plan to soon",High,Senior
+Argentina,55425.0,"Hybrid (some remote, some in-person)",16,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL;TypeScript,"No, and I don't plan to",Medium,Senior
+Brazil,67135.0,Remote,23,"Employed, full-time",Bash/Shell (all shells);Groovy;Java;JavaScript;Lisp;SQL,Yes,High,Senior
+Brazil,42892.0,"Hybrid (some remote, some in-person)",8,"Employed, full-time",C#;Java;JavaScript;Python;R;Scala;SQL;VBA,Yes,Medium,Senior
+Mexico,52992.0,"Hybrid (some remote, some in-person)",8,"Employed, full-time",Bash/Shell (all shells);Groovy;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,34687.0,Remote,12,"Employed, full-time",Go;JavaScript;Python;TypeScript,Yes,Medium,Senior
+Brazil,44757.0,Remote,8,"Employed, full-time",Clojure;JavaScript,"No, but I plan to soon",Medium,Senior
+Brazil,46622.0,Remote,27,"Employed, full-time",Bash/Shell (all shells);C;Go;Java;JavaScript,Yes,Medium,Senior
+Brazil,8504.0,Remote,3,"Employed, full-time",C++;HTML/CSS;JavaScript;Kotlin;PHP;PowerShell;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,21633.0,"Hybrid (some remote, some in-person)",2,"Employed, full-time",Bash/Shell (all shells);C;Python;SQL,Yes,Medium,Junior
+Brazil,7459.0,Remote,1,"Independent contractor, freelancer, or self-employed",C;C#;C++;HTML/CSS;Java;JavaScript;SQL,"No, and I don't plan to",Low,Junior
+Mexico,64691.0,Remote,15,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Dart;JavaScript;TypeScript,Yes,High,Senior
+Mexico,26954.0,Remote,15,"Employed, part-time",C++;Dart;Python,"No, and I don't plan to",Medium,Senior
+Brazil,111892.0,Remote,24,"Employed, full-time",JavaScript;Kotlin,Yes,High,Senior
+Brazil,69373.0,Remote,17,"Employed, full-time",HTML/CSS;Java;JavaScript;Kotlin;SQL;TypeScript,"No, and I don't plan to",High,Senior
+Brazil,16739.0,"Hybrid (some remote, some in-person)",1,"Employed, full-time;Student, part-time",Bash/Shell (all shells);Cobol;Java;Ruby;Rust;SQL,"No, and I don't plan to",Low,Junior
+Brazil,47554.0,"Hybrid (some remote, some in-person)",14,"Employed, full-time",HTML/CSS;JavaScript;SQL;TypeScript,Yes,Medium,Senior
+Brazil,19022.0,Remote,11,"Employed, full-time",Go;JavaScript;Python;Rust;TypeScript,Yes,Low,Senior
+Colombia,66616.0,"Hybrid (some remote, some in-person)",18,"Employed, full-time",C;C#;C++;HTML/CSS;Java;JavaScript;PHP;PowerShell;Python;SQL;TypeScript,"No, but I plan to soon",High,Senior
+Brazil,24243.0,Remote,5,"Employed, full-time",Dart;HTML/CSS;JavaScript;Kotlin;SQL;Swift;TypeScript,Yes,Medium,Semi Senior
+Argentina,12000.0,Remote,3,"Employed, full-time;Student, full-time",Assembly;C;C++;GDScript;HTML/CSS;Java;JavaScript;MicroPython;SQL;TypeScript;VBA,Yes,Low,Semi Senior
+Argentina,65000.0,Remote,10,"Employed, full-time",Dart;JavaScript;TypeScript,Yes,High,Senior
+Mexico,129381.0,Remote,15,"Employed, full-time;Independent contractor, freelancer, or self-employed",C;Go;HTML/CSS;JavaScript;Rust;Solidity,Yes,High,Senior
+Mexico,6469.0,In-person,4,"Independent contractor, freelancer, or self-employed",C#;HTML/CSS;Java;JavaScript;SQL;Swift,"No, and I don't plan to",Low,Semi Senior
+Brazil,22378.0,Remote,4,"Employed, full-time",Dart;Kotlin;Python;TypeScript,"No, and I don't plan to",Medium,Semi Senior
+Brazil,18649.0,Remote,25,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;SQL;TypeScript,Yes,Low,Senior
+Argentina,70000.0,Remote,13,"Employed, full-time",Elixir;HTML/CSS;JavaScript;Ruby;SQL;TypeScript,"No, and I don't plan to",High,Senior
+Brazil,65271.0,In-person,10,"Employed, full-time",Bash/Shell (all shells);JavaScript;TypeScript,Yes,High,Senior
+Mexico,21564.0,In-person,Less than 1 year,"Employed, full-time",C#;PHP;Python,Yes,Medium,Unknown
+Argentina,55425.0,Remote,34,"Employed, full-time",C#;Python,"No, and I don't plan to",Medium,Senior
+Brazil,5128.0,Remote,1,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C;C++;Elixir;JavaScript;Python;SQL,Yes,Low,Junior
+Brazil,42333.0,Remote,20,"Employed, full-time",C;C++;Go;HTML/CSS;Java;Kotlin;Rust;SQL;TypeScript;Zig,"No, and I don't plan to",Medium,Senior
+Brazil,105000.0,Remote,10,"Employed, full-time",Go;TypeScript,Yes,High,Senior
+Brazil,26854.0,Remote,19,"Employed, full-time",Bash/Shell (all shells);Groovy;HTML/CSS;Java;JavaScript;SQL,Yes,Medium,Senior
+Brazil,11189.0,Remote,6,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Ruby;TypeScript,Yes,Low,Semi Senior
+Brazil,93244.0,"Hybrid (some remote, some in-person)",34,"Employed, full-time;Employed, part-time",HTML/CSS;Java;JavaScript;Python;Rust;Solidity;SQL;Swift;TypeScript,Yes,High,Senior
+Brazil,22378.0,Remote,25,"Employed, full-time",C#;JavaScript;PowerShell;SQL,"No, but I plan to soon",Medium,Senior
+Brazil,46622.0,Remote,20,"Employed, full-time",HTML/CSS;Java;JavaScript;Kotlin;Python;SQL;TypeScript,Yes,Medium,Senior
+Brazil,8000.0,In-person,2,"Employed, full-time",Bash/Shell (all shells);JavaScript;Python;TypeScript,Yes,Low,Junior
+Brazil,44757.0,"Hybrid (some remote, some in-person)",22,"Independent contractor, freelancer, or self-employed",Assembly;C;C++;Cobol;Java;JavaScript;Perl;PHP;SQL,"No, and I don't plan to",Medium,Senior
+Peru,86000.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time",JavaScript;Python;R;Scala;SQL;TypeScript,Yes,High,Semi Senior
+Brazil,13875.0,Remote,4,"Employed, full-time",Python;SQL,Yes,Low,Semi Senior
+Brazil,6714.0,In-person,3,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL,Yes,Low,Semi Senior
+Argentina,19500.0,"Hybrid (some remote, some in-person)",14,"Employed, full-time;Independent contractor, freelancer, or self-employed",Go;HTML/CSS;JavaScript;Lua;PHP;SQL,Yes,Low,Senior
+Brazil,17903.0,Remote,6,"Employed, full-time",Java;JavaScript;PHP,"No, but I plan to soon",Low,Semi Senior
+Colombia,19177.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",C;C++;HTML/CSS;Java;JavaScript;MATLAB;MicroPython;PowerShell;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,3543.0,"Hybrid (some remote, some in-person)",2,"Employed, part-time",C++;Go;HTML/CSS;JavaScript;PHP;Python;TypeScript,Yes,Low,Junior
+Peru,1901.0,Remote,4,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C;C#;C++;Cobol;HTML/CSS;Julia;MATLAB;MicroPython;PHP;PowerShell;Python;R;SQL;Swift,Yes,Low,Semi Senior
+Brazil,18649.0,Remote,More than 50 years,"Independent contractor, freelancer, or self-employed",C#;Delphi;Kotlin,"No, but I plan to soon",Low,Unknown
+Mexico,21564.0,In-person,6,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;Python;R;Rust;SQL;VBA,Yes,Medium,Semi Senior
+Brazil,1304.0,Remote,2,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Lua;Python;TypeScript,Yes,Low,Junior
+Brazil,9697.0,Remote,3,"Employed, full-time",Bash/Shell (all shells);JavaScript;TypeScript,Yes,Low,Semi Senior
+Brazil,33941.0,Remote,9,"Employed, full-time",Java;JavaScript;Kotlin;TypeScript,Yes,Medium,Senior
+Brazil,80562.0,Remote,12,"Employed, full-time;Independent contractor, freelancer, or self-employed",JavaScript;TypeScript,"No, and I don't plan to",High,Senior
+Chile,32495.0,Remote,10,"Employed, full-time;Independent contractor, freelancer, or self-employed",Elixir;Go;JavaScript,"No, and I don't plan to",Medium,Senior
+Brazil,69000.0,Remote,12,"Employed, full-time",HTML/CSS;Java;JavaScript;Kotlin;TypeScript,"No, and I don't plan to",High,Senior
+Brazil,37297.0,"Hybrid (some remote, some in-person)",8,"Employed, full-time",C#;Java;JavaScript;Objective-C,"No, but I plan to soon",Medium,Senior
+Brazil,26854.0,Remote,3,"Independent contractor, freelancer, or self-employed",C#;Go;Java;JavaScript;PHP;Python;SQL,Yes,Medium,Semi Senior
+Brazil,82000.0,Remote,17,"Employed, full-time",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,"No, but I plan to soon",High,Senior
+Brazil,28197.0,Remote,8,"Employed, full-time;Independent contractor, freelancer, or self-employed",Java;JavaScript;SQL;TypeScript,Yes,Medium,Senior
+Brazil,16784.0,"Hybrid (some remote, some in-person)",15,"Employed, full-time",C#;SQL,"No, and I don't plan to",Low,Senior
+Brazil,12588.0,"Hybrid (some remote, some in-person)",2,"Employed, full-time",HTML/CSS;JavaScript;SQL;TypeScript,Yes,Low,Junior
+Chile,43326.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",C#;Groovy;HTML/CSS;JavaScript;Perl;PowerShell;Python;SQL;TypeScript,Yes,Medium,Semi Senior
+Argentina,20000.0,"Hybrid (some remote, some in-person)",2,"Employed, full-time",Bash/Shell (all shells);Go;Java;JavaScript;PHP;Python;Rust;Scala;SQL,Yes,Medium,Junior
+Colombia,42392.0,Remote,14,"Employed, full-time",Bash/Shell (all shells);JavaScript;Python,"No, but I plan to soon",Medium,Senior
+Colombia,3936.0,In-person,3,"Employed, full-time",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;PHP;PowerShell;SQL;TypeScript;VBA,Yes,Low,Semi Senior
+Brazil,20514.0,"Hybrid (some remote, some in-person)",15,"Independent contractor, freelancer, or self-employed",C#;JavaScript;PHP;Python;SQL,Yes,Medium,Senior
+Brazil,16709.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",Dart;HTML/CSS;Kotlin;SQL;Swift,Yes,Low,Semi Senior
+Brazil,20514.0,Remote,18,"Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;SQL;TypeScript,Yes,Medium,Senior
+Brazil,9399.0,Remote,3,"Employed, full-time;Student, part-time",Bash/Shell (all shells);Python;SQL,Yes,Low,Semi Senior
+Colombia,24224.0,Remote,Less than 1 year,"Employed, full-time",Dart;Java;JavaScript;Python;SQL;TypeScript,Yes,Medium,Unknown
+Brazil,19208.0,Remote,14,"Employed, full-time;Independent contractor, freelancer, or self-employed",JavaScript;Python;SQL,Yes,Low,Senior
+Chile,48092.0,Remote,28,"Employed, full-time",C#;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,27973.0,Remote,10,"Employed, full-time",HTML/CSS;JavaScript;PHP;PowerShell;SQL,Yes,Medium,Senior
+Brazil,5595.0,"Hybrid (some remote, some in-person)",5,"Independent contractor, freelancer, or self-employed",C#;C++;Delphi;HTML/CSS;Java;PHP;SQL;Visual Basic (.Net),Yes,Low,Semi Senior
+Brazil,5975.0,"Hybrid (some remote, some in-person)",Less than 1 year,"Student, part-time;Employed, part-time",HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,Yes,Low,Unknown
+Brazil,3730.0,In-person,5,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL,Yes,Low,Semi Senior
+Brazil,7693.0,In-person,2,"Employed, full-time",Dart;Java;SQL,Yes,Low,Junior
+Mexico,12938.0,In-person,3,"Employed, full-time",Go;Java;JavaScript;TypeScript,Yes,Low,Semi Senior
+Uruguay,92525.0,Remote,20,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;TypeScript,Yes,High,Senior
+Brazil,23274.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",HTML/CSS;JavaScript;Python;SQL,"No, but I plan to soon",Medium,Semi Senior
+Brazil,23083.0,Remote,2,"Employed, full-time",C#;HTML/CSS;JavaScript;SQL;TypeScript,Yes,Medium,Junior
+Brazil,23311.0,"Hybrid (some remote, some in-person)",14,"Employed, full-time",C#;Delphi;HTML/CSS;Java;Scala;SQL,"No, but I plan to soon",Medium,Senior
+Brazil,24616.0,Remote,20,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,16038.0,Remote,3,"Employed, full-time",Go;HTML/CSS;JavaScript;SQL;TypeScript,"No, but I plan to soon",Low,Semi Senior
+Brazil,4662.0,In-person,2,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL,Yes,Low,Junior
+Chile,38994.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",Bash/Shell (all shells);Python;Rust;SQL,"No, but I plan to soon",Medium,Semi Senior
+Mexico,2156.0,Remote,14,"Employed, full-time",Kotlin;Python;SQL;Swift;TypeScript,Yes,Low,Senior
+Uruguay,120000.0,"Hybrid (some remote, some in-person)",18,"Employed, full-time",C#;HTML/CSS;JavaScript;Kotlin;PowerShell;Python;SQL;TypeScript,Yes,High,Senior
+Brazil,20364.0,"Hybrid (some remote, some in-person)",7,"Employed, full-time",Assembly;C;C#;C++;HTML/CSS;JavaScript;PowerShell;Python;SQL;TypeScript;VBA,"No, and I don't plan to",Medium,Senior
+Brazil,18649.0,Remote,4,"Employed, full-time",JavaScript;TypeScript,Yes,Low,Semi Senior
+Brazil,13987.0,In-person,13,"Employed, full-time",Dart;HTML/CSS;JavaScript;PHP;Python;SQL,"No, and I don't plan to",Low,Senior
+Uruguay,26339.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time;Student, part-time",HTML/CSS;Java;JavaScript;Python;SQL,Yes,Medium,Semi Senior
+Mexico,32378.0,Remote,3,"Employed, full-time",JavaScript,Yes,Medium,Semi Senior
+Brazil,6527.0,Remote,2,"Employed, full-time;Student, part-time",HTML/CSS;JavaScript;SQL;TypeScript,Yes,Low,Junior
+Uruguay,80000.0,Remote,11,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;SQL;TypeScript,Yes,High,Senior
+Brazil,2797.0,"Hybrid (some remote, some in-person)",Less than 1 year,"Student, part-time;Employed, part-time",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;PHP;PowerShell;SQL;TypeScript,Yes,Low,Unknown
+Brazil,14546.0,Remote,3,"Employed, full-time",Python,Yes,Low,Semi Senior
+Uruguay,110000.0,Remote,25,"Independent contractor, freelancer, or self-employed",JavaScript,"No, and I don't plan to",High,Senior
+Brazil,6714.0,In-person,8,"Independent contractor, freelancer, or self-employed",Dart;JavaScript;SQL,Yes,Low,Senior
+Brazil,15851.0,"Hybrid (some remote, some in-person)",22,"Employed, full-time;Independent contractor, freelancer, or self-employed",Go;HTML/CSS;JavaScript;SQL;TypeScript,Yes,Low,Senior
+Peru,112290.0,Remote,10,"Employed, full-time",HTML/CSS;JavaScript;Kotlin;Ruby;TypeScript,Yes,High,Senior
+Colombia,13020.0,Remote,3,"Independent contractor, freelancer, or self-employed",JavaScript;TypeScript,Yes,Low,Semi Senior
+Uruguay,180000.0,Remote,17,"Employed, full-time",C++;HTML/CSS;JavaScript;Kotlin;Python;Ruby;Swift,"No, and I don't plan to",High,Senior
+Brazil,8951.0,In-person,3,"Employed, full-time",Bash/Shell (all shells);C;GDScript;HTML/CSS;JavaScript;PowerShell;Python;Ruby;SQL,Yes,Low,Semi Senior
+Brazil,138187.0,In-person,15,"Employed, full-time",Bash/Shell (all shells);Delphi;HTML/CSS;Java;JavaScript;PHP;PowerShell;SQL;TypeScript,Yes,High,Senior
+Mexico,150000.0,Remote,9,"Employed, full-time;Independent contractor, freelancer, or self-employed",Go,Yes,High,Senior
+Brazil,55946.0,In-person,,"Employed, full-time",R,Yes,Medium,Senior
+Brazil,27973.0,Remote,4,"Employed, full-time;Student, part-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PowerShell;Python;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,14770.0,In-person,5,"Employed, full-time",C#;JavaScript,"No, and I don't plan to",Low,Semi Senior
+Chile,24696.0,Remote,7,"Employed, full-time",Bash/Shell (all shells);JavaScript;Python;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Chile,64989.0,In-person,12,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Python;TypeScript,Yes,High,Senior
+Brazil,16112.0,"Hybrid (some remote, some in-person)",8,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C;C++;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript,Yes,Low,Senior
+Mexico,16173.0,In-person,3,"Employed, full-time",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;Python,Yes,Low,Semi Senior
+Mexico,26954.0,In-person,15,"Employed, full-time;Independent contractor, freelancer, or self-employed",Assembly;Bash/Shell (all shells);C#;HTML/CSS;JavaScript;PHP;PowerShell;SQL,Yes,Medium,Senior
+Mexico,1240.0,Remote,Less than 1 year,"Employed, full-time",Bash/Shell (all shells);Go;JavaScript;Python;SQL;TypeScript,Yes,Low,Unknown
+Brazil,13054.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time;Student, part-time",C#;HTML/CSS;Rust;TypeScript,Yes,Low,Semi Senior
+Colombia,7570.0,In-person,1,"Employed, full-time",Bash/Shell (all shells);C#;Java;Python;SQL;TypeScript,Yes,Low,Junior
+Brazil,4476.0,"Hybrid (some remote, some in-person)",1,"Student, part-time;Employed, part-time",C;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript,Yes,Low,Junior
+Brazil,12122.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time;Independent contractor, freelancer, or self-employed;Student, part-time",Cobol;HTML/CSS;Java;JavaScript;Objective-C;Python;SQL;Swift;VBA,Yes,Low,Semi Senior
+Brazil,39162.0,Remote,11,"Employed, full-time",C#;Dart;HTML/CSS;JavaScript;PowerShell;Python;SQL;TypeScript,Yes,Medium,Senior
+Brazil,14229.0,Remote,5,"Employed, full-time",Bash/Shell (all shells);C++;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript,"No, and I don't plan to",Low,Semi Senior
+Brazil,20141.0,Remote,4,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C;Dart;Go;HTML/CSS;Java;JavaScript;Kotlin;SQL;TypeScript,Yes,Medium,Semi Senior
+Mexico,5175.0,Remote,Less than 1 year,"Employed, full-time;Student, full-time",C;HTML/CSS;Java;JavaScript;Python;Rust,"No, and I don't plan to",Low,Unknown
+Brazil,74595.0,"Hybrid (some remote, some in-person)",14,"Employed, full-time",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;Python;SQL,Yes,High,Senior
+Brazil,22378.0,"Hybrid (some remote, some in-person)",10,"Employed, full-time",Bash/Shell (all shells);Dart;Go;HTML/CSS;Java;JavaScript;PHP;Python;SQL;TypeScript,Yes,Medium,Senior
+Mexico,16173.0,Remote,3,"Employed, full-time",C;C#;C++;SQL;Swift;Visual Basic (.Net),Yes,Low,Semi Senior
+Chile,21663.0,In-person,2,"Employed, full-time",C++;JavaScript;Python;Rust,"No, and I don't plan to",Medium,Junior
+Brazil,27973.0,In-person,10,"Employed, full-time;Student, part-time",C;C#;C++;HTML/CSS;Java;JavaScript;Python,Yes,Medium,Senior
+Brazil,13427.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",C;C++;Python,"No, and I don't plan to",Low,Semi Senior
+Brazil,26108.0,Remote,13,"Employed, full-time",C++;HTML/CSS;Java;JavaScript;Python,Yes,Medium,Senior
+Brazil,12000.0,Remote,8,"Independent contractor, freelancer, or self-employed",C;C#;C++;HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Low,Senior
+Brazil,13987.0,Remote,8,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Solidity;SQL;TypeScript,Yes,Low,Senior
+Colombia,15140.0,"Hybrid (some remote, some in-person)",13,"Employed, full-time",Dart;Go;Java;JavaScript;PHP;Python;SQL,"No, and I don't plan to",Low,Senior
+Brazil,11562.0,Remote,4,"Employed, full-time",Bash/Shell (all shells);Python;R;SQL;VBA,Yes,Low,Semi Senior
+Brazil,27973.0,"Hybrid (some remote, some in-person)",7,"Employed, full-time",C#;GDScript;HTML/CSS;JavaScript;PHP;Python;R;SQL,Yes,Medium,Senior
+Argentina,72000.0,Remote,7,"Employed, full-time",HTML/CSS;JavaScript;Python;SQL,Yes,High,Senior
+Brazil,37297.0,In-person,2,"Employed, full-time",C#;Dart;HTML/CSS;SQL,Yes,Medium,Junior
+Uruguay,104861.0,Remote,5,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;GDScript;Java;JavaScript;PHP;Python;R;Rust;SQL;TypeScript,Yes,High,Semi Senior
+Brazil,44757.0,Remote,8,"Employed, full-time;Independent contractor, freelancer, or self-employed",Python,Yes,Medium,Senior
+Brazil,6714.0,Remote,2,"Employed, full-time",C#;Go;HTML/CSS;JavaScript;SQL;TypeScript,Yes,Low,Junior
+Brazil,44757.0,Remote,5,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Go;HTML/CSS;JavaScript;Python;SQL,Yes,Medium,Semi Senior
+Brazil,22378.0,Remote,5,"Employed, full-time;Student, part-time",Bash/Shell (all shells);C#;JavaScript;TypeScript,Yes,Medium,Semi Senior
+Brazil,76646.0,Remote,14,"Employed, full-time",Elixir;Erlang;HTML/CSS;JavaScript,Yes,High,Senior
+Argentina,115000.0,Remote,13,"Employed, full-time",Elixir;JavaScript;Ruby;TypeScript,Yes,High,Senior
+Brazil,30770.0,Remote,4,"Employed, full-time",Bash/Shell (all shells);C;C#;C++;Java;SQL,Yes,Medium,Semi Senior
+Argentina,60000.0,Remote,9,"Employed, full-time",Go;JavaScript;TypeScript,Yes,High,Senior
+Brazil,23497.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);HTML/CSS;JavaScript;Python,Yes,Medium,Semi Senior
+Brazil,67881.0,"Hybrid (some remote, some in-person)",12,"Employed, full-time",Elixir;HTML/CSS;Ruby,"No, and I don't plan to",High,Senior
+Brazil,22378.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",Bash/Shell (all shells);Python;R;Scala;SQL,"No, and I don't plan to",Medium,Semi Senior
+Mexico,16173.0,"Hybrid (some remote, some in-person)",7,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Low,Senior
+Argentina,24000.0,Remote,3,"Employed, full-time",Python,Yes,Medium,Semi Senior
+Chile,45492.0,In-person,4,"Employed, full-time;Independent contractor, freelancer, or self-employed",Python;R;SQL,Yes,Medium,Semi Senior
+Brazil,30211.0,Remote,14,"Employed, full-time",Bash/Shell (all shells);C#;HTML/CSS;Java;JavaScript;PowerShell;Python;SQL;TypeScript,"No, and I don't plan to",Medium,Senior
+Colombia,32803.0,Remote,13,"Employed, full-time",C#;HTML/CSS;JavaScript;SQL,"No, but I plan to soon",Medium,Senior
+Argentina,116393.0,Remote,14,"Employed, full-time",Groovy;Java;JavaScript;Lua;Perl;Python;Ruby;Rust;SQL,Yes,High,Senior
+Brazil,65271.0,Remote,12,"Employed, full-time",Go;Java;JavaScript,"No, but I plan to soon",High,Senior
+Colombia,43401.0,Remote,20,"Employed, full-time",Java;SQL,"No, but I plan to soon",Medium,Senior
+Brazil,11189.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",C#;C++;Dart;HTML/CSS;Java;JavaScript;Kotlin;Lua;PHP;Python;SQL;TypeScript,"No, and I don't plan to",Low,Semi Senior
+Brazil,10070.0,In-person,10,"Employed, full-time",C#;HTML/CSS;Python;SQL;TypeScript,"No, and I don't plan to",Low,Senior
+Argentina,46557.0,"Hybrid (some remote, some in-person)",11,"Independent contractor, freelancer, or self-employed",C#;Go;JavaScript;PHP;SQL;TypeScript,"No, and I don't plan to",Medium,Senior
+Brazil,37297.0,Remote,18,"Employed, full-time",Java,Yes,Medium,Senior
+Brazil,73849.0,Remote,8,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);GDScript;HTML/CSS;Java;JavaScript;Julia;Kotlin;MATLAB;PowerShell;Python;SQL;TypeScript,Yes,High,Senior
+Uruguay,96600.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",HTML/CSS;JavaScript;TypeScript,Yes,High,Semi Senior
+Brazil,55946.0,"Hybrid (some remote, some in-person)",8,"Employed, full-time",C#;Elixir,"No, and I don't plan to",Medium,Senior
+Brazil,33568.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;Java;JavaScript;Python;TypeScript,"No, and I don't plan to",Medium,Semi Senior
+Brazil,21260.0,In-person,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;Go;Rust;Solidity;SQL;Visual Basic (.Net),"No, and I don't plan to",Medium,Semi Senior
+Brazil,51284.0,"Hybrid (some remote, some in-person)",15,"Employed, full-time",Java;Python,Yes,Medium,Senior
+Brazil,82987.0,Remote,3,"Employed, full-time;Student, part-time",Elixir;SQL,Yes,High,Semi Senior
+Argentina,45600.0,Remote,12,"Employed, full-time;Independent contractor, freelancer, or self-employed",Clojure;Java;PHP;Python;Ruby;SQL;Visual Basic (.Net),"No, and I don't plan to",Medium,Senior
+Brazil,24243.0,Remote,24,"Employed, full-time",Java;PHP;PowerShell;Python;SQL,Yes,Medium,Senior
+Peru,23765.0,Remote,3,"Employed, full-time",JavaScript;Python;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,12495.0,In-person,11,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;TypeScript,Yes,Low,Senior
+Brazil,26108.0,Remote,6,"Employed, full-time",Dart;Kotlin;SQL;Swift,Yes,Medium,Semi Senior
+Colombia,2019.0,"Hybrid (some remote, some in-person)",13,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;SQL,"No, and I don't plan to",Low,Senior
+Mexico,17413.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",C;C#;Dart;HTML/CSS;Java;JavaScript;PHP;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Peru,11091.0,In-person,3,"Employed, full-time",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript;VBA,Yes,Low,Semi Senior
+Brazil,33568.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time;Independent contractor, freelancer, or self-employed",JavaScript;SQL;TypeScript,Yes,Medium,Semi Senior
+Argentina,130000.0,Remote,13,"Employed, full-time",TypeScript,Yes,High,Senior
+Colombia,42392.0,"Hybrid (some remote, some in-person)",14,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;PowerShell;SQL;TypeScript,Yes,Medium,Senior
+Brazil,18522.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",Bash/Shell (all shells);C;C++;Python,"No, and I don't plan to",Low,Semi Senior
+Argentina,61100.0,"Hybrid (some remote, some in-person)",13,"Employed, full-time",Java;JavaScript;TypeScript,Yes,High,Senior
+Colombia,27888.0,Remote,8,"Employed, full-time",HTML/CSS;JavaScript;Python;TypeScript,Yes,Medium,Senior
+Brazil,13054.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time;Student, part-time",Bash/Shell (all shells);C++;Go;HTML/CSS;Java;JavaScript;PHP;Python;SQL,Yes,Low,Semi Senior
+Brazil,14546.0,In-person,2,"Employed, full-time",Bash/Shell (all shells);C;C#;C++;HTML/CSS;Java;Python;R;SQL;VBA,Yes,Low,Junior
+Uruguay,93000.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",JavaScript;Python;TypeScript,Yes,High,Semi Senior
+Brazil,30770.0,"Hybrid (some remote, some in-person)",14,"Employed, full-time",C#;Dart;HTML/CSS;JavaScript;SQL,"No, but I plan to soon",Medium,Senior
+Argentina,27000.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;PowerShell;SQL,"No, and I don't plan to",Medium,Semi Senior
+Argentina,31038.0,"Hybrid (some remote, some in-person)",12,"Employed, full-time",Go;Java;Kotlin;SQL,Yes,Medium,Senior
+Brazil,27973.0,Remote,6,"Employed, full-time",C#,Yes,Medium,Semi Senior
+Brazil,20514.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time",Elixir;HTML/CSS;JavaScript;PHP;SQL;TypeScript,Yes,Medium,Semi Senior
+Chile,1300.0,Remote,11,"Employed, full-time",C;C#;C++;HTML/CSS;JavaScript;PHP;SQL,Yes,Low,Senior
+Brazil,15273.0,Remote,10,"Employed, full-time",Bash/Shell (all shells);Lua;Python,"No, but I plan to soon",Low,Senior
+Mexico,1186.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",C#;HTML/CSS;Java;JavaScript;Python;TypeScript,Yes,Low,Semi Senior
+Uruguay,26986.0,"Hybrid (some remote, some in-person)",1,"Employed, full-time;Student, part-time",C#;Go;HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Medium,Junior
+Mexico,10674.0,Remote,5,"Independent contractor, freelancer, or self-employed;Employed, part-time",HTML/CSS;TypeScript,"No, but I plan to soon",Low,Semi Senior
+Mexico,53909.0,"Hybrid (some remote, some in-person)",14,"Employed, full-time",C;C++;Objective-C,Yes,Medium,Senior
+Colombia,87812.0,"Hybrid (some remote, some in-person)",12,"Employed, full-time",Go;Java;Kotlin;Scala,Yes,High,Senior
+Colombia,70000.0,Remote,12,"Employed, full-time",Elixir;Erlang;JavaScript;Kotlin;SQL,Yes,High,Senior
+Brazil,29092.0,Remote,4,"Employed, full-time",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;SQL;TypeScript,Yes,Medium,Semi Senior
+Colombia,13626.0,Remote,1,"Employed, full-time",JavaScript;PowerShell,Yes,Low,Junior
+Brazil,72693.0,Remote,9,"Employed, full-time",Kotlin,Yes,High,Senior
+Brazil,22378.0,Remote,8,"Employed, full-time",Elixir;HTML/CSS;JavaScript;Kotlin;Python,Yes,Medium,Senior
+Chile,32495.0,"Hybrid (some remote, some in-person)",10,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;R;TypeScript,Yes,Medium,Senior
+Brazil,242433.0,Remote,12,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C;C++;Groovy;PowerShell;Python,Yes,High,Senior
+Brazil,4476.0,Remote,3,"Employed, full-time",HTML/CSS;Java;JavaScript;Python;SQL,Yes,Low,Semi Senior
+Brazil,33568.0,Remote,34,"Employed, full-time",Bash/Shell (all shells);C#;Python;SQL,"No, and I don't plan to",Medium,Senior
+Argentina,120000.0,Remote,11,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP;Ruby;Solidity;TypeScript,Yes,High,Senior
+Mexico,20000.0,Remote,1,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C;Go;HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript,Yes,Medium,Junior
+Brazil,14360.0,Remote,4,"Employed, full-time",JavaScript;Swift;TypeScript,"No, and I don't plan to",Low,Semi Senior
+Argentina,40000.0,Remote,4,"Employed, full-time",JavaScript;Python;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,4923.0,In-person,1,"Employed, full-time",C;C#;Delphi;SQL,Yes,Low,Junior
+Brazil,8485.0,Remote,3,"Employed, full-time;Student, full-time",Dart;GDScript;Java;Python;Swift,Yes,Low,Semi Senior
+Brazil,18649.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",C++;Python,"No, but I plan to soon",Low,Semi Senior
+Brazil,180000.0,Remote,8,"Employed, full-time;Independent contractor, freelancer, or self-employed",Go;HTML/CSS;JavaScript;SQL;TypeScript,"No, but I plan to soon",High,Senior
+Brazil,24616.0,Remote,15,"Employed, full-time",JavaScript;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Argentina,10000.0,In-person,2,"Employed, full-time;Student, part-time",HTML/CSS;JavaScript;Python,Yes,Low,Junior
+Mexico,32345.0,Remote,10,"Employed, full-time",,Yes,Medium,Senior
+Mexico,1256.0,In-person,10,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL,Yes,Low,Senior
+Colombia,76962.0,Remote,19,"Employed, full-time",Bash/Shell (all shells);Groovy;Java;SQL,"No, but I plan to soon",High,Senior
+Brazil,111892.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C#;Java;JavaScript;PowerShell;Python;SQL;TypeScript,Yes,High,Semi Senior
+Brazil,34314.0,"Hybrid (some remote, some in-person)",7,"Employed, full-time",Bash/Shell (all shells);Python;SQL,Yes,Medium,Senior
+Brazil,110000.0,Remote,8,"Employed, full-time",Elixir,Yes,High,Senior
+Brazil,20887.0,Remote,28,"Employed, full-time",HTML/CSS;Java;JavaScript;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,3133.0,"Hybrid (some remote, some in-person)",1,"Student, part-time;Employed, part-time",Dart;Java;SQL,Yes,Low,Junior
+Brazil,63219.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C#;F#;Haskell;Python;SQL;TypeScript,"No, and I don't plan to",High,Semi Senior
+Mexico,19407.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",HTML/CSS;JavaScript;TypeScript,"No, but I plan to soon",Low,Semi Senior
+Brazil,46622.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",JavaScript;Python,Yes,Medium,Semi Senior
+Brazil,17903.0,Remote,7,"Employed, full-time",JavaScript;TypeScript,"No, and I don't plan to",Low,Senior
+Colombia,17411.0,"Hybrid (some remote, some in-person)",3,"Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;SQL,Yes,Low,Semi Senior
+Argentina,60968.0,"Hybrid (some remote, some in-person)",28,"Employed, full-time",Dart;HTML/CSS;Java;JavaScript;SQL,Yes,High,Senior
+Brazil,10257.0,In-person,6,"Employed, full-time;Student, part-time",HTML/CSS;JavaScript;PHP;R;Ruby;SQL,"No, and I don't plan to",Low,Semi Senior
+Peru,29659.0,Remote,2,"Employed, full-time",C#;HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript,Yes,Medium,Junior
+Mexico,9811.0,In-person,5,"Employed, full-time",C#;HTML/CSS;JavaScript;Python;VBA,"No, but I plan to soon",Low,Semi Senior
+Brazil,38043.0,"Hybrid (some remote, some in-person)",8,"Employed, full-time",Java;JavaScript;Python;TypeScript,"No, and I don't plan to",Medium,Senior
+Brazil,18649.0,Remote,17,"Employed, full-time",Bash/Shell (all shells);SQL,"No, and I don't plan to",Low,Senior
+Mexico,8625.0,In-person,4,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL,Yes,Low,Semi Senior
+Mexico,3235.0,"Hybrid (some remote, some in-person)",1,"Employed, full-time;Independent contractor, freelancer, or self-employed",Apex;Bash/Shell (all shells);C;C++;Dart;HTML/CSS;JavaScript;MATLAB;PHP;Python;SQL;TypeScript,"No, and I don't plan to",Low,Junior
+Uruguay,45029.0,Remote,4,"Employed, full-time",Bash/Shell (all shells);C#;HTML/CSS;Python;SQL,"No, and I don't plan to",Medium,Semi Senior
+Brazil,33568.0,Remote,12,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;Go;HTML/CSS;JavaScript;PHP;PowerShell;Python;Solidity;SQL;TypeScript;VBA;Visual Basic (.Net),Yes,Medium,Senior
+Brazil,36365.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed;Student, part-time",Bash/Shell (all shells);Python;R;SQL,"No, and I don't plan to",Medium,Semi Senior
+Brazil,39722.0,Remote,10,"Employed, full-time",Python,Yes,Medium,Senior
+Brazil,4662.0,Remote,22,"Employed, full-time;Not employed, but looking for work;Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript,Yes,Low,Senior
+Brazil,22378.0,Remote,15,"Employed, full-time",C;C++;Delphi;Go;HTML/CSS;JavaScript;MicroPython;Python;SQL;TypeScript,Yes,Medium,Senior
+Brazil,7832.0,"Hybrid (some remote, some in-person)",10,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript,Yes,Low,Senior
+Brazil,22378.0,Remote,14,"Independent contractor, freelancer, or self-employed",C#;Dart;Go;HTML/CSS;JavaScript;Kotlin;PHP;Python;R;Rust;SQL;TypeScript,Yes,Medium,Senior
+Argentina,16000.0,In-person,4,"Employed, full-time",Java;Python;SQL,Yes,Low,Semi Senior
+Brazil,67135.0,Remote,7,"Employed, full-time",HTML/CSS;JavaScript;Python,"No, but I plan to soon",High,Senior
+Brazil,140000.0,Remote,8,"Employed, full-time",Ruby,Yes,High,Senior
+Brazil,121217.0,Remote,18,"Employed, full-time",Bash/Shell (all shells);Elixir;Go;HTML/CSS;JavaScript;Python;Ruby;Rust;SQL;TypeScript,Yes,High,Senior
+Colombia,2258.0,Remote,12,"Employed, full-time",C++;Clojure;Cobol;Dart;Go;Groovy;Kotlin;MATLAB;PHP;R;Ruby;Scala;VBA;Visual Basic (.Net),"No, but I plan to soon",Low,Senior
+Argentina,40000.0,Remote,15,"Independent contractor, freelancer, or self-employed",C;C++;Python,"No, and I don't plan to",Medium,Senior
+Brazil,22550.0,Remote,5,"Employed, full-time",JavaScript;Python;TypeScript,Yes,Medium,Semi Senior
+Argentina,36000.0,Remote,29,"Independent contractor, freelancer, or self-employed",C;Go;HTML/CSS;Java;JavaScript;Kotlin;PHP;PowerShell;SQL;TypeScript;Visual Basic (.Net),"No, and I don't plan to",Medium,Senior
+Brazil,42892.0,"Hybrid (some remote, some in-person)",20,"Employed, full-time",Bash/Shell (all shells);C;Go;Java;JavaScript;PowerShell;Python;SQL;TypeScript,Yes,Medium,Senior
+Mexico,29111.0,Remote,2,"Employed, full-time;Student, full-time",Python;R,Yes,Medium,Junior
+Colombia,25233.0,Remote,3,"Employed, full-time;Independent contractor, freelancer, or self-employed;Student, part-time",Go;Python,Yes,Medium,Semi Senior
+Brazil,74160.0,Remote,10,"Employed, full-time",C;HTML/CSS;JavaScript;Rust;SQL;TypeScript,Yes,High,Senior
+Uruguay,250000.0,"Hybrid (some remote, some in-person)",30,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;JavaScript;Rust;SQL,Yes,High,Senior
+Argentina,40000.0,Remote,4,"Employed, full-time;Student, full-time",C++;Java;JavaScript;MATLAB;Python;SQL,Yes,Medium,Semi Senior
+Brazil,35806.0,Remote,20,"Employed, full-time",JavaScript;TypeScript,Yes,Medium,Senior
+Brazil,100000.0,Remote,12,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;Perl;PHP;Python;SQL;TypeScript,Yes,High,Senior
+Brazil,74595.0,"Hybrid (some remote, some in-person)",9,"Employed, full-time;Independent contractor, freelancer, or self-employed",C++;Go;HTML/CSS;JavaScript;Python;Rust;SQL;TypeScript,Yes,High,Senior
+Mexico,48518.0,"Hybrid (some remote, some in-person)",16,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;Python;SQL;TypeScript,"No, and I don't plan to",Medium,Senior
+Mexico,37736.0,Remote,10,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Chile,75821.0,Remote,6,"Employed, full-time",Python;R;SQL,Yes,High,Semi Senior
+Uruguay,91000.0,Remote,10,"Employed, full-time",Bash/Shell (all shells);Groovy;HTML/CSS;Java;JavaScript;Python;Scala;SQL;TypeScript,Yes,High,Senior
+Brazil,18649.0,In-person,8,"Employed, full-time",Bash/Shell (all shells);Delphi;HTML/CSS;JavaScript;Ruby;SQL;TypeScript,Yes,Low,Senior
+Brazil,22360.0,Remote,3,"Employed, full-time",Java;Python;TypeScript,Yes,Medium,Semi Senior
+Brazil,16970.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",C;C#;Java;PHP;TypeScript;VBA,Yes,Low,Semi Senior
+Brazil,16784.0,Remote,5,"Employed, full-time",GDScript;HTML/CSS;JavaScript;PHP;PowerShell;Python;SQL,Yes,Low,Semi Senior
+Brazil,91165.0,Remote,8,"Employed, full-time",HTML/CSS;JavaScript;TypeScript,Yes,High,Senior
+Brazil,21291.0,"Hybrid (some remote, some in-person)",14,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript,Yes,Medium,Senior
+Colombia,30280.0,In-person,12,"Employed, full-time",HTML/CSS;JavaScript;Python,Yes,Medium,Senior
+Peru,87000.0,Remote,12,"Independent contractor, freelancer, or self-employed",Python,Yes,High,Senior
+Mexico,70000.0,Remote,18,"Employed, full-time",C;C#;C++,"No, but I plan to soon",High,Senior
+Brazil,90000.0,Remote,8,"Employed, full-time",HTML/CSS;JavaScript;Ruby,Yes,High,Senior
+Argentina,66000.0,Remote,22,"Employed, full-time",HTML/CSS;Java;JavaScript;PHP;Scala;SQL;TypeScript,Yes,High,Senior
+Brazil,1865.0,Remote,Less than 1 year,"Student, part-time;Employed, part-time",Java;Python,Yes,Low,Unknown
+Mexico,17251.0,In-person,7,"Employed, full-time",C#;HTML/CSS;JavaScript,Yes,Low,Senior
+Mexico,48518.0,"Hybrid (some remote, some in-person)",14,"Employed, full-time",C#;Dart;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,Yes,Medium,Senior
+Brazil,36365.0,Remote,32,"Employed, part-time",Dart,"No, but I plan to soon",Medium,Senior
+Mexico,25876.0,Remote,2,"Employed, full-time",HTML/CSS;JavaScript;TypeScript,Yes,Medium,Junior
+Uruguay,70000.0,Remote,12,"Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;SQL;TypeScript,Yes,High,Senior
+Brazil,70000.0,Remote,15,"Employed, full-time",C;C#;C++;Go;HTML/CSS;Java;JavaScript;Kotlin;Lua;PHP;Python;Solidity;SQL;Swift,Yes,High,Senior
+Mexico,51213.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",HTML/CSS;JavaScript,"No, and I don't plan to",Medium,Semi Senior
+Brazil,102572.0,Remote,12,"Employed, full-time",C#;HTML/CSS;Java;JavaScript;Lua;PHP;Prolog;Python;SQL;TypeScript,Yes,High,Senior
+Brazil,7273.0,In-person,Less than 1 year,"Employed, full-time",C#;HTML/CSS;JavaScript,Yes,Low,Unknown
+Argentina,125000.0,Remote,15,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Elixir;HTML/CSS;JavaScript;Python;Ruby;SQL,Yes,High,Senior
+Argentina,144000.0,Remote,15,"Employed, full-time",Bash/Shell (all shells);JavaScript;Python;Ruby,"No, but I plan to soon",High,Senior
+Brazil,167838.0,Remote,22,"Employed, full-time;Independent contractor, freelancer, or self-employed;Student, part-time",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,Yes,High,Senior
+Argentina,137000.0,Remote,19,"Employed, full-time",Bash/Shell (all shells);Go;Ruby,Yes,High,Senior
+Brazil,8358.0,In-person,5,"Employed, full-time;Student, part-time",HTML/CSS;JavaScript;Ruby;TypeScript,Yes,Low,Semi Senior
+Brazil,80000.0,Remote,30,"Employed, full-time",C++;Delphi,"No, but I plan to soon",High,Senior
+Brazil,15982.0,Remote,6,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,93244.0,Remote,14,"Employed, full-time",Java,Yes,High,Senior
+Brazil,55946.0,Remote,18,"Employed, full-time;Student, part-time",Assembly;Bash/Shell (all shells);C;Delphi;Go;HTML/CSS;MATLAB;Python;SQL,"No, but I plan to soon",Medium,Senior
+Mexico,41315.0,Remote,26,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Go;HTML/CSS;JavaScript;PowerShell;Python;SQL,Yes,Medium,Senior
+Mexico,32345.0,Remote,9,"Employed, full-time",HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Medium,Senior
+Colombia,9690.0,"Hybrid (some remote, some in-person)",1,"Employed, full-time",JavaScript,Yes,Low,Junior
+Chile,34661.0,Remote,4,"Employed, full-time",C#;C++,"No, and I don't plan to",Medium,Semi Senior
+Brazil,40281.0,Remote,,"Employed, full-time",Bash/Shell (all shells);C#;C++;Dart;Go;HTML/CSS;JavaScript;Python;SQL,Yes,Medium,Senior
+Brazil,44757.0,Remote,13,"Employed, full-time",Bash/Shell (all shells);MATLAB;Python,Yes,Medium,Senior
+Mexico,6469.0,In-person,1,"Employed, full-time",HTML/CSS;JavaScript;TypeScript,Yes,Low,Junior
+Brazil,27973.0,Remote,5,"Employed, full-time",Java;JavaScript;Kotlin;SQL,"No, but I plan to soon",Medium,Semi Senior
+Colombia,4719.0,Remote,11,"Employed, full-time",Java;Kotlin,Yes,Low,Senior
+Brazil,44757.0,Remote,8,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Groovy;Python,Yes,Medium,Senior
+Brazil,5595.0,Remote,10,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP;SQL;TypeScript,Yes,Low,Senior
+Colombia,39364.0,Remote,10,"Employed, full-time",JavaScript;Python;TypeScript,Yes,Medium,Senior
+Mexico,58222.0,Remote,5,"Employed, full-time",HTML/CSS;Java;JavaScript;PHP;SQL;TypeScript,Yes,Medium,Semi Senior
+Chile,54158.0,In-person,10,"Employed, full-time",Bash/Shell (all shells);Python,Yes,Medium,Senior
+Chile,20797.0,Remote,15,"Employed, full-time",HTML/CSS;JavaScript;PHP;Python;SQL,Yes,Medium,Senior
+Mexico,43127.0,"Hybrid (some remote, some in-person)",7,"Employed, full-time",Assembly;HTML/CSS;Java;JavaScript;PHP;SQL;Swift;TypeScript,"No, and I don't plan to",Medium,Senior
+Brazil,13427.0,Remote,4,"Employed, full-time",HTML/CSS;JavaScript;SQL;TypeScript,Yes,Low,Semi Senior
+Colombia,15140.0,Remote,6,"Employed, full-time",C#;HTML/CSS;JavaScript;SQL,"No, but I plan to soon",Low,Semi Senior
+Uruguay,170000.0,Remote,24,"Not employed, but looking for work;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Haskell;Python;Scala,Yes,High,Senior
+Chile,6629.0,In-person,1,"Employed, full-time",HTML/CSS;JavaScript;Lua,"No, and I don't plan to",Low,Junior
+Colombia,57000.0,Remote,30,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;SQL;TypeScript,Yes,Medium,Senior
+Colombia,60000.0,Remote,11,"Employed, full-time",C++;Go;HTML/CSS;JavaScript;Python;Ruby;SQL;TypeScript,"No, but I plan to soon",High,Senior
+Brazil,20141.0,"Hybrid (some remote, some in-person)",13,"Employed, full-time",C#;Go;Groovy;Java;JavaScript;Kotlin;SQL;TypeScript,Yes,Medium,Senior
+Brazil,93244.0,Remote,14,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;C++;HTML/CSS;Java;JavaScript;SQL,"No, but I plan to soon",High,Senior
+Mexico,14852.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time;Student, part-time",C#;Delphi;Java;JavaScript;Kotlin;Visual Basic (.Net),Yes,Low,Semi Senior
+Colombia,4542.0,Remote,1,"Student, full-time;Not employed, but looking for work;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Dart;HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript,Yes,Low,Junior
+Argentina,72000.0,Remote,25,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;HTML/CSS;SQL;TypeScript,"No, but I plan to soon",High,Senior
+Argentina,1109.0,In-person,5,"Employed, full-time;Student, part-time",C#;JavaScript;SQL;TypeScript,"No, but I plan to soon",Low,Semi Senior
+Mexico,6739.0,In-person,3,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;PHP;Rust;SQL;TypeScript,Yes,Low,Semi Senior
+Peru,114074.0,Remote,20,"Employed, full-time",JavaScript,Yes,High,Senior
+Argentina,90000.0,Remote,10,"Independent contractor, freelancer, or self-employed",Java;JavaScript;SQL;TypeScript,"No, and I don't plan to",High,Senior
+Mexico,35041.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",Bash/Shell (all shells);C;HTML/CSS;JavaScript;Python;Ruby,Yes,Medium,Semi Senior
+Mexico,80000.0,Remote,20,"Independent contractor, freelancer, or self-employed",Elixir;HTML/CSS;TypeScript,"No, but I plan to soon",High,Senior
+Brazil,103000.0,Remote,15,"Employed, full-time",C#;HTML/CSS;JavaScript;TypeScript;Visual Basic (.Net),Yes,High,Senior
+Mexico,21348.0,Remote,14,"Employed, full-time",C#;HTML/CSS;JavaScript;SQL,Yes,Medium,Senior
+Argentina,6651.0,Remote,4,"Independent contractor, freelancer, or self-employed",JavaScript;PHP;Python,"No, but I plan to soon",Low,Semi Senior
+Brazil,20514.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",JavaScript;Kotlin;Python;Rust;SQL;TypeScript,"No, and I don't plan to",Medium,Semi Senior
+Chile,25996.0,"Hybrid (some remote, some in-person)",2,"Employed, full-time",Bash/Shell (all shells);C;C++;Python;Rust,"No, but I plan to soon",Medium,Junior
+Chile,45492.0,In-person,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Java;JavaScript;Python;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,20514.0,"Hybrid (some remote, some in-person)",12,"Employed, full-time",Bash/Shell (all shells);Groovy;PowerShell;Python;VBA,Yes,Medium,Senior
+Colombia,51840.0,Remote,6,"Employed, full-time",Scala;TypeScript,Yes,Medium,Semi Senior
+Brazil,30770.0,Remote,14,"Employed, full-time",C#;C++;HTML/CSS;JavaScript;SQL,Yes,Medium,Senior
+Brazil,36365.0,Remote,12,"Employed, full-time;Student, part-time",Bash/Shell (all shells);C;Go;HTML/CSS;Java;JavaScript;Kotlin;Python;Swift,"No, and I don't plan to",Medium,Senior
+Mexico,19946.0,Remote,9,"Employed, full-time",C#;HTML/CSS;JavaScript;PHP;SQL,"No, but I plan to soon",Low,Senior
+Argentina,106416.0,Remote,17,"Employed, full-time;Independent contractor, freelancer, or self-employed",Python,Yes,High,Senior
+Mexico,2156.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP;Python;TypeScript,Yes,Low,Semi Senior
+Brazil,55946.0,Remote,10,"Employed, full-time",Bash/Shell (all shells);Java;JavaScript;Kotlin;Python;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,24616.0,Remote,6,"Employed, full-time",C#;C++;Go;Java;JavaScript;Python;Ruby;SQL;TypeScript,Yes,Medium,Semi Senior
+Mexico,10303.0,In-person,17,"Employed, full-time",Bash/Shell (all shells);Java;PowerShell;SQL,Yes,Low,Senior
+Brazil,9175.0,Remote,5,"Employed, full-time",HTML/CSS;JavaScript;Rust;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,95000.0,Remote,12,"Employed, full-time",Bash/Shell (all shells);C;C#;C++;HTML/CSS;Java;JavaScript;Python;Ruby;SQL;TypeScript,Yes,High,Senior
+Uruguay,96096.0,"Hybrid (some remote, some in-person)",8,"Employed, full-time;Independent contractor, freelancer, or self-employed",Java;Rust,Yes,High,Senior
+Argentina,200000.0,Remote,20,"Employed, full-time",Assembly;Bash/Shell (all shells);C++;Go;Groovy;HTML/CSS;Java;JavaScript;Kotlin;PHP;Python;SQL,"No, but I plan to soon",High,Senior
+Mexico,80863.0,Remote,20,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Python;Rust;SQL,Yes,High,Senior
+Brazil,15851.0,Remote,3,"Employed, full-time",Bash/Shell (all shells);Go;JavaScript;Python;Rust;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,8392.0,Remote,5,"Employed, full-time;Student, part-time",Clojure,Yes,Low,Semi Senior
+Brazil,31703.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time",Bash/Shell (all shells);C#;C++;HTML/CSS;Python;SQL,Yes,Medium,Semi Senior
+Brazil,6937.0,"Hybrid (some remote, some in-person)",2,"Employed, full-time",C#;C++;HTML/CSS;JavaScript;Kotlin;SQL;TypeScript,"No, and I don't plan to",Low,Junior
+Argentina,211336.0,Remote,18,"Employed, full-time",HTML/CSS;JavaScript;SQL,"No, and I don't plan to",High,Senior
+Argentina,55425.0,Remote,10,"Employed, full-time",HTML/CSS;Python,Yes,Medium,Senior
+Brazil,25777.0,Remote,5,"Employed, full-time",JavaScript;Python;TypeScript,Yes,Medium,Semi Senior
+Mexico,47548.0,"Hybrid (some remote, some in-person)",8,"Employed, full-time",Bash/Shell (all shells);Groovy;Java;PowerShell;Python;Scala;SQL,"No, but I plan to soon",Medium,Senior
+Brazil,22378.0,Remote,1,"Employed, full-time",Bash/Shell (all shells);Crystal;HTML/CSS;JavaScript;Python;Rust;TypeScript,Yes,Medium,Junior
+Brazil,29838.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",Assembly;Bash/Shell (all shells);Python;SQL,Yes,Medium,Semi Senior
+Argentina,68727.0,Remote,5,"Employed, full-time",JavaScript;Python;Rust;TypeScript,"No, and I don't plan to",High,Semi Senior
+Colombia,27252.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time;Independent contractor, freelancer, or self-employed",C++;Java;JavaScript;PHP;SQL,Yes,Medium,Semi Senior
+Argentina,3000.0,Remote,3,"Employed, full-time",Go;Kotlin;Python,Yes,Low,Semi Senior
+Brazil,8951.0,In-person,1,"Employed, full-time",C;GDScript;HTML/CSS;Java;JavaScript;Kotlin;Lua;Python;Rust,Yes,Low,Junior
+Mexico,16119.0,Remote,4,"Employed, full-time",Go;HTML/CSS;JavaScript;SQL;TypeScript,"No, but I plan to soon",Low,Semi Senior
+Mexico,28161.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",C#;C++;JavaScript;PowerShell,"No, but I plan to soon",Medium,Semi Senior
+Brazil,24243.0,Remote,5,"Employed, full-time",C;C++;Go;JavaScript;PHP;Ruby;Rust;SQL,Yes,Medium,Semi Senior
+Mexico,230000.0,Remote,15,"Employed, full-time",Go;HTML/CSS;Java;JavaScript;Kotlin;Python;Rust;SQL;TypeScript,"No, and I don't plan to",High,Senior
+Brazil,24243.0,"Hybrid (some remote, some in-person)",27,"Employed, full-time",JavaScript;TypeScript,Yes,Medium,Senior
+Brazil,111892.0,Remote,10,"Employed, full-time",C#;PowerShell;SQL,"No, but I plan to soon",High,Senior
+Brazil,40281.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;Rust;SQL;TypeScript,Yes,Medium,Semi Senior
+Colombia,18168.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time;Independent contractor, freelancer, or self-employed",C++;JavaScript;Julia;Lua;Python;Rust;TypeScript,Yes,Low,Semi Senior
+Chile,33036.0,Remote,15,"Employed, full-time;Independent contractor, freelancer, or self-employed",Assembly;Bash/Shell (all shells);C#;HTML/CSS;Python;Rust,"No, and I don't plan to",Medium,Senior
+Brazil,64444.0,Remote,6,"Employed, full-time",HTML/CSS;JavaScript;TypeScript,Yes,High,Semi Senior
+Brazil,80000.0,Remote,4,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Python;Rust;TypeScript,Yes,High,Semi Senior
+Brazil,223785.0,Remote,8,"Independent contractor, freelancer, or self-employed",C++;Java;JavaScript;SQL;TypeScript,Yes,High,Senior
+Brazil,205136.0,Remote,21,"Employed, full-time;Independent contractor, freelancer, or self-employed",C++;HTML/CSS;Java;JavaScript;PHP;Rust;TypeScript,"No, but I plan to soon",High,Senior
+Brazil,42892.0,Remote,15,"Employed, full-time",Bash/Shell (all shells);Groovy;Java;Kotlin,Yes,Medium,Senior
+Brazil,13427.0,In-person,4,"Employed, full-time",C#;JavaScript;Python;Rust;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,4923.0,Remote,2,"Employed, full-time",HTML/CSS;Java;JavaScript;PHP;Rust;TypeScript,Yes,Low,Junior
+Chile,51991.0,"Hybrid (some remote, some in-person)",15,"Employed, full-time",C#;C++;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,33568.0,Remote,12,"Employed, full-time",HTML/CSS;JavaScript;PHP;Python;TypeScript,Yes,Medium,Senior
+Brazil,24243.0,Remote,10,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);HTML/CSS;Python;SQL;TypeScript,Yes,Medium,Senior
+Brazil,36701.0,Remote,21,"Employed, full-time",HTML/CSS;Java;JavaScript;SQL;TypeScript,Yes,Medium,Senior
+Brazil,22378.0,"Hybrid (some remote, some in-person)",10,"Employed, full-time",C#;HTML/CSS;JavaScript;Kotlin;SQL,Yes,Medium,Senior
+Brazil,18089.0,In-person,5,"Employed, full-time",C;C++;Java;Python,Yes,Low,Semi Senior
+Chile,33600.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;Python;SQL,"No, but I plan to soon",Medium,Semi Senior
+Brazil,22378.0,Remote,10,"Employed, full-time",Bash/Shell (all shells);C#,Yes,Medium,Senior
+Brazil,90000.0,Remote,6,"Employed, full-time",Clojure;JavaScript,"No, and I don't plan to",High,Semi Senior
+Chile,4983.0,Remote,13,"Employed, full-time",C#;JavaScript;TypeScript,Yes,Low,Senior
+Argentina,53208.0,Remote,38,"Independent contractor, freelancer, or self-employed;Employed, part-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;SQL,Yes,Medium,Senior
+Mexico,54664.0,Remote,6,"Employed, full-time",HTML/CSS;JavaScript,"No, and I don't plan to",Medium,Semi Senior
+Argentina,40000.0,Remote,22,"Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;SQL;Visual Basic (.Net),Yes,Medium,Senior
+Brazil,7161.0,In-person,8,"Employed, full-time;Student, part-time",C;Python;R,"No, but I plan to soon",Low,Senior
+Brazil,42000.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Python;SQL,"No, and I don't plan to",Medium,Semi Senior
+Brazil,46622.0,Remote,3,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;C++;Go;JavaScript;Python;SQL;TypeScript,Yes,Medium,Semi Senior
+Colombia,14474.0,Remote,3,"Employed, full-time",Elixir,Yes,Low,Semi Senior
+Brazil,58184.0,Remote,8,"Employed, full-time",Bash/Shell (all shells);Go;HTML/CSS;JavaScript;SQL;TypeScript,"No, and I don't plan to",Medium,Senior
+Brazil,37297.0,Remote,30,"Employed, full-time",Cobol;Delphi;Fortran,"No, but I plan to soon",Medium,Senior
+Peru,52812.0,"Hybrid (some remote, some in-person)",15,"Employed, full-time",C#;Delphi;HTML/CSS;Java;JavaScript;SQL;TypeScript;Visual Basic (.Net),Yes,Medium,Senior
+Brazil,17903.0,"Hybrid (some remote, some in-person)",7,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;Elixir;JavaScript;PHP;Python;TypeScript,"No, and I don't plan to",Low,Senior
+Brazil,74595.0,Remote,12,"Employed, full-time",Bash/Shell (all shells);Go;HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,High,Senior
+Brazil,6527.0,"Hybrid (some remote, some in-person)",2,"Employed, full-time",PHP,"No, and I don't plan to",Low,Junior
+Brazil,27787.0,"Hybrid (some remote, some in-person)",22,"Employed, full-time",C#;Delphi;JavaScript;SQL;Visual Basic (.Net),"No, and I don't plan to",Medium,Senior
+Brazil,130000.0,In-person,15,"Employed, full-time",C;C#;HTML/CSS;JavaScript;Python;Rust;SQL,Yes,High,Senior
+Brazil,18649.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP;Prolog;Python;SQL,"No, but I plan to soon",Low,Semi Senior
+Brazil,52216.0,In-person,7,"Employed, full-time",Bash/Shell (all shells);C;C++;Clojure;HTML/CSS;Java;JavaScript;Lisp;R;SQL,Yes,Medium,Senior
+Brazil,10909.0,"Hybrid (some remote, some in-person)",2,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;PowerShell;SQL;TypeScript,Yes,Low,Junior
+Chile,48742.0,Remote,5,"Employed, full-time",GDScript;Groovy;Java;JavaScript;Python;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,8951.0,Remote,,"Employed, full-time",Clojure;HTML/CSS;JavaScript;Python,Yes,Low,Senior
+Uruguay,70000.0,Remote,11,"Employed, full-time",Dart;Java;Python,Yes,High,Senior
+Mexico,88572.0,Remote,12,"Employed, full-time",Go;SQL,Yes,High,Senior
+Argentina,39000.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time;Student, part-time",Bash/Shell (all shells);Groovy;Kotlin,"No, and I don't plan to",Medium,Semi Senior
+Brazil,14919.0,In-person,2,"Employed, full-time",HTML/CSS;JavaScript;Python;R,Yes,Low,Junior
+Brazil,17903.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",C#;C++;JavaScript;Python,Yes,Low,Semi Senior
+Argentina,96000.0,Remote,12,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Groovy;Python,Yes,High,Senior
+Mexico,59246.0,Remote,12,"Employed, full-time",HTML/CSS;Java;TypeScript,Yes,Medium,Senior
+Mexico,32884.0,Remote,13,"Employed, full-time",C#;HTML/CSS;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Mexico,56604.0,"Hybrid (some remote, some in-person)",20,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;Python;SQL,Yes,Medium,Senior
+Brazil,60000.0,Remote,31,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C;C#;Delphi;HTML/CSS;Java;JavaScript;PHP;PowerShell;SQL,"No, but I plan to soon",High,Senior
+Argentina,6000.0,"Hybrid (some remote, some in-person)",2,"Student, full-time;Employed, part-time",C;HTML/CSS;Java;JavaScript;Lua;Python;SQL,Yes,Low,Junior
+Mexico,66000.0,Remote,10,"Employed, full-time;Independent contractor, freelancer, or self-employed",GDScript;HTML/CSS;JavaScript;TypeScript,Yes,High,Senior
+Brazil,22378.0,Remote,6,"Employed, full-time",HTML/CSS;Java;JavaScript;TypeScript,"No, and I don't plan to",Medium,Semi Senior
+Colombia,50000.0,"Hybrid (some remote, some in-person)",23,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;Java;JavaScript;Kotlin;Rust;SQL,Yes,Medium,Senior
+Brazil,41214.0,Remote,25,"Employed, full-time",Cobol;Delphi;Java;Ruby;Rust;SQL,"No, but I plan to soon",Medium,Senior
+Brazil,29838.0,Remote,32,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL,Yes,Medium,Senior
+Brazil,74595.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",Go;HTML/CSS;JavaScript;Python;Rust;TypeScript,Yes,High,Semi Senior
+Chile,25996.0,"Hybrid (some remote, some in-person)",2,"Employed, full-time",JavaScript;Rust;TypeScript,Yes,Medium,Junior
+Mexico,20000.0,Remote,1,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Python;TypeScript,Yes,Medium,Junior
+Mexico,40000.0,Remote,5,"Employed, full-time",Ada;Bash/Shell (all shells);C;Perl,"No, but I plan to soon",Medium,Semi Senior
+Colombia,48000.0,Remote,2,"Employed, full-time;Independent contractor, freelancer, or self-employed;Employed, part-time",Assembly;Bash/Shell (all shells);C#;C++;Dart;Go;HTML/CSS;Java;JavaScript;Python;Rust;SQL;TypeScript,Yes,Medium,Junior
+Brazil,8951.0,"Hybrid (some remote, some in-person)",1,"Student, full-time;Employed, part-time",C#;Lisp;SQL,Yes,Low,Junior
+Brazil,65271.0,"Hybrid (some remote, some in-person)",12,"Employed, full-time",C#;C++;JavaScript;SQL,"No, and I don't plan to",High,Senior
+Brazil,156649.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",Go;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript,Yes,High,Semi Senior
+Mexico,13477.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL;TypeScript,"No, but I plan to soon",Low,Semi Senior
+Brazil,46622.0,Remote,15,"Employed, full-time",Clojure;Groovy;HTML/CSS;Java;JavaScript;Kotlin;Python;Rust;TypeScript,"No, and I don't plan to",Medium,Senior
+Brazil,42519.0,Remote,30,"Employed, full-time",C#;Python,Yes,Medium,Senior
+Brazil,42892.0,Remote,11,"Employed, full-time",Bash/Shell (all shells);Python;SQL,Yes,Medium,Senior
+Brazil,11189.0,Remote,2,"Employed, full-time;Student, part-time",Dart;JavaScript;Python;Ruby;SQL;TypeScript,Yes,Low,Junior
+Argentina,11085.0,"Hybrid (some remote, some in-person)",15,"Independent contractor, freelancer, or self-employed",C++;Fortran;MATLAB,"No, but I plan to soon",Low,Senior
+Brazil,2238.0,In-person,39,"Employed, full-time",JavaScript;Python;SQL,Yes,Low,Senior
+Brazil,14919.0,"Hybrid (some remote, some in-person)",,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Python;SQL;VBA,Yes,Low,Senior
+Brazil,83919.0,"Hybrid (some remote, some in-person)",37,"Employed, full-time",Bash/Shell (all shells);Groovy;Java;JavaScript;Python;TypeScript,"No, but I plan to soon",High,Senior
+Brazil,19693.0,Remote,15,"Employed, full-time",Elixir;SQL,Yes,Low,Senior
+Brazil,18649.0,Remote,5,"Not employed, but looking for work;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Mexico,29488.0,Remote,5,"Employed, full-time",C#;HTML/CSS;JavaScript;SQL,Yes,Medium,Semi Senior
+Brazil,24616.0,Remote,Less than 1 year,"Employed, full-time;Student, part-time",Bash/Shell (all shells);Java;JavaScript;Python;R;TypeScript,Yes,Medium,Unknown
+Brazil,60000.0,Remote,20,"Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;SQL;TypeScript,Yes,High,Senior
+Brazil,7459.0,Remote,2,"Employed, full-time",Bash/Shell (all shells);Clojure;Go;Java;Python;SQL;VBA,Yes,Low,Junior
+Mexico,26954.0,Remote,10,"Employed, full-time",C#;HTML/CSS;PowerShell;Python;SQL;TypeScript;VBA;Visual Basic (.Net),Yes,Medium,Senior
+Brazil,26108.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time;Independent contractor, freelancer, or self-employed;Student, part-time",Bash/Shell (all shells);C;C#;C++;Dart;Elixir;Java;Kotlin;Perl;PHP;PowerShell;Python;Ruby;Swift,Yes,Medium,Semi Senior
+Uruguay,59317.0,Remote,4,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;Ruby;SQL;TypeScript,"No, and I don't plan to",Medium,Semi Senior
+Peru,26406.0,"Hybrid (some remote, some in-person)",2,"Independent contractor, freelancer, or self-employed",Python;R;SQL,Yes,Medium,Junior
+Colombia,7873.0,"Hybrid (some remote, some in-person)",5,"Employed, part-time",C#;C++;JavaScript;PHP;Python;SQL,Yes,Low,Semi Senior
+Brazil,14322.0,In-person,7,"Employed, full-time",HTML/CSS;JavaScript;PowerShell;TypeScript,"No, but I plan to soon",Low,Senior
+Brazil,37297.0,Remote,9,"Employed, full-time",Bash/Shell (all shells);C;Go;HTML/CSS;Java;JavaScript;Lisp;Lua;MicroPython;Objective-C;Python;Ruby;Rust;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,19312.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",C;C#;Lisp;Python;VBA;Visual Basic (.Net),"No, but I plan to soon",Low,Semi Senior
+Peru,9506.0,In-person,2,"Employed, part-time",JavaScript;Python,Yes,Low,Junior
+Brazil,13054.0,"Hybrid (some remote, some in-person)",20,"Independent contractor, freelancer, or self-employed;Employed, part-time",Bash/Shell (all shells);C;C#;C++;HTML/CSS;Java;JavaScript;Kotlin;Perl;PHP;PowerShell;Python;Ruby;Rust;SQL;TypeScript;VBA;Visual Basic (.Net),Yes,Low,Senior
+Colombia,3936.0,In-person,1,"Employed, full-time;Student, part-time",C#;HTML/CSS;JavaScript;SQL;VBA;Visual Basic (.Net),Yes,Low,Junior
+Brazil,17716.0,"Hybrid (some remote, some in-person)",7,"Employed, full-time",Go;PHP,"No, but I plan to soon",Low,Senior
+Colombia,5425.0,Remote,,"Employed, full-time",HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,Yes,Low,Senior
+Brazil,71500.0,Remote,24,"Employed, full-time",C#;SQL,Yes,High,Senior
+Brazil,29838.0,Remote,15,"Employed, full-time",HTML/CSS;JavaScript;TypeScript,Yes,Medium,Senior
+Argentina,31038.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time;Independent contractor, freelancer, or self-employed",Go;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,11189.0,In-person,3,"Employed, full-time",C#;HTML/CSS;JavaScript;TypeScript,Yes,Low,Semi Senior
+Brazil,34873.0,Remote,7,"Employed, full-time",Clojure;Java,"No, and I don't plan to",Medium,Senior
+Brazil,65271.0,"Hybrid (some remote, some in-person)",12,"Employed, full-time",Bash/Shell (all shells);C#;Go;Kotlin;SQL;Visual Basic (.Net),Yes,High,Senior
+Brazil,74595.0,Remote,7,"Employed, full-time",Bash/Shell (all shells);Python;R;SQL,Yes,High,Senior
+Mexico,13477.0,"Hybrid (some remote, some in-person)",Less than 1 year,"Employed, full-time",Bash/Shell (all shells);C;PowerShell;Python;Rust;SQL;VBA,Yes,Low,Unknown
+Mexico,46631.0,Remote,3,"Employed, full-time",C#;C++;PHP;Python;SQL,Yes,Medium,Semi Senior
+Brazil,27973.0,"Hybrid (some remote, some in-person)",Less than 1 year,"Employed, full-time;Student, part-time",,Yes,Medium,Unknown
+Chile,43326.0,Remote,11,"Employed, full-time",Bash/Shell (all shells);Groovy;Python,Yes,Medium,Senior
+Brazil,68441.0,"Hybrid (some remote, some in-person)",27,"Employed, full-time",Assembly;Bash/Shell (all shells);C;C#;C++;Cobol;Delphi;HTML/CSS;Java;JavaScript;MATLAB;Objective-C;Perl;PHP;PowerShell;SQL;TypeScript;VBA;Visual Basic (.Net),"No, and I don't plan to",High,Senior
+Brazil,49233.0,"Hybrid (some remote, some in-person)",12,"Employed, full-time",Bash/Shell (all shells);C;Python;Rust;SQL,Yes,Medium,Senior
+Brazil,33568.0,Remote,9,"Employed, full-time",Clojure;JavaScript;Ruby,"No, but I plan to soon",Medium,Senior
+Peru,39609.0,"Hybrid (some remote, some in-person)",7,"Employed, full-time",Bash/Shell (all shells);Groovy;Java;SQL,Yes,Medium,Senior
+Brazil,24243.0,In-person,20,"Employed, full-time",C;HTML/CSS;Java;JavaScript;PHP;Python;SQL,"No, and I don't plan to",Medium,Senior
+Brazil,3655.0,Remote,2,"Employed, full-time;Student, part-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Low,Junior
+Argentina,22170.0,"Hybrid (some remote, some in-person)",17,"Employed, full-time",C#;JavaScript;Python;SQL,Yes,Medium,Senior
+Brazil,20141.0,"Hybrid (some remote, some in-person)",9,"Employed, full-time",Bash/Shell (all shells);C;HTML/CSS;Python;R,Yes,Medium,Senior
+Brazil,61448.0,"Hybrid (some remote, some in-person)",12,"Employed, full-time",Clojure;Dart;Java;JavaScript;Scala;SQL;TypeScript,Yes,High,Senior
+Mexico,11644.0,"Hybrid (some remote, some in-person)",4,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C;C++;HTML/CSS;MATLAB;MicroPython;Perl;PowerShell;Python;R;SQL,Yes,Low,Semi Senior
+Brazil,57625.0,Remote,25,"Employed, full-time",C;C++;SQL,"No, but I plan to soon",Medium,Senior
+Brazil,111892.0,Remote,12,"Employed, full-time",Dart;Elixir;Erlang;Java;Rust,"No, and I don't plan to",High,Senior
+Brazil,17903.0,Remote,6,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Python,Yes,Low,Semi Senior
+Brazil,23274.0,Remote,Less than 1 year,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Python,Yes,Medium,Unknown
+Brazil,24243.0,Remote,5,"Employed, full-time",Bash/Shell (all shells);C;C++;Dart;Go;HTML/CSS;Rust;SQL,Yes,Medium,Semi Senior
+Argentina,18889.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time;Independent contractor, freelancer, or self-employed;Student, part-time",Assembly;Bash/Shell (all shells);C;C#;C++;Dart;Go;HTML/CSS;JavaScript;Kotlin;Prolog;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,8392.0,"Hybrid (some remote, some in-person)",11,"Independent contractor, freelancer, or self-employed;Employed, part-time",HTML/CSS;JavaScript;PHP;SQL,Yes,Low,Senior
+Peru,6337.0,In-person,1,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Python;SQL,Yes,Low,Junior
+Brazil,242433.0,Remote,14,"Employed, full-time",C#;Java;JavaScript;Kotlin;Scala;SQL;TypeScript;Visual Basic (.Net),"No, and I don't plan to",High,Senior
+Chile,18197.0,Remote,4,"Employed, full-time",JavaScript;Ruby;TypeScript,Yes,Low,Semi Senior
+Brazil,26854.0,Remote,1,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;TypeScript,Yes,Medium,Junior
+Uruguay,16784.0,Remote,8,"Employed, full-time;Independent contractor, freelancer, or self-employed",Apex;JavaScript;Python;SQL;TypeScript;VBA;Visual Basic (.Net),Yes,Low,Senior
+Argentina,96000.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",JavaScript;PowerShell;Python;SQL;TypeScript,Yes,High,Semi Senior
+Brazil,22378.0,In-person,2,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Medium,Junior
+Brazil,37297.0,Remote,4,"Employed, full-time;Student, part-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Python;Ruby;Rust;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,40000.0,Remote,7,"Employed, full-time",Delphi;SQL,"No, but I plan to soon",Medium,Senior
+Argentina,30595.0,"Hybrid (some remote, some in-person)",20,"Employed, full-time;Independent contractor, freelancer, or self-employed",Assembly;Bash/Shell (all shells);C;C++;Go;HTML/CSS;Java;JavaScript;PHP;Scala;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,50352.0,Remote,29,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C#;HTML/CSS;Java;JavaScript;Kotlin;SQL;TypeScript,Yes,Medium,Senior
+Brazil,4476.0,In-person,Less than 1 year,"Employed, full-time;Student, part-time",Bash/Shell (all shells);Go;HTML/CSS;Java;JavaScript;SQL;TypeScript,Yes,Low,Unknown
+Brazil,13427.0,"Hybrid (some remote, some in-person)",10,"Employed, full-time;Independent contractor, freelancer, or self-employed;Student, part-time",Bash/Shell (all shells);C;C#;C++;HTML/CSS;Java;JavaScript;Lua;MATLAB;PHP;PowerShell;Python;R;SQL;TypeScript;Visual Basic (.Net),Yes,Low,Senior
+Brazil,10294.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",Bash/Shell (all shells);C;C#;F#;HTML/CSS;JavaScript;PowerShell;Rust;SQL,"No, but I plan to soon",Low,Semi Senior
+Brazil,13074.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",C#;JavaScript;SQL,"No, and I don't plan to",Low,Semi Senior
+Brazil,18649.0,Remote,6,"Employed, full-time",Bash/Shell (all shells);Go;Python,"No, and I don't plan to",Low,Semi Senior
+Peru,23765.0,Remote,5,"Employed, full-time",Apex;Assembly;Bash/Shell (all shells);C#;HTML/CSS;Java;JavaScript;MATLAB;PowerShell;SQL;TypeScript;VBA,Yes,Medium,Semi Senior
+Mexico,21564.0,In-person,10,"Employed, full-time",Clojure;HTML/CSS;JavaScript;PHP;SQL,"No, and I don't plan to",Medium,Senior
+Brazil,11189.0,Remote,30,"Employed, full-time",C;C++;Cobol;Delphi;HTML/CSS;Java;JavaScript;SQL,"No, but I plan to soon",Low,Senior
+Argentina,35000.0,Remote,17,"Employed, full-time;Student, part-time",Bash/Shell (all shells);Python;SQL,Yes,Medium,Senior
+Brazil,31703.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time;Independent contractor, freelancer, or self-employed;Student, part-time",C;C#;C++;Java;JavaScript;Python;SQL;VBA;Visual Basic (.Net),"No, but I plan to soon",Medium,Semi Senior
+Argentina,4434.0,In-person,5,"Not employed, but looking for work;Employed, part-time",HTML/CSS;JavaScript;PHP;Prolog;SQL,"No, and I don't plan to",Low,Semi Senior
+Brazil,25735.0,Remote,5,"Employed, full-time",Bash/Shell (all shells);Go;HTML/CSS;JavaScript;Kotlin;PowerShell;Python;Rust;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,4476.0,"Hybrid (some remote, some in-person)",3,"Student, part-time;Employed, part-time",C;C#;C++;HTML/CSS;JavaScript;Python;R;SQL,Yes,Low,Semi Senior
+Colombia,145000.0,Remote,9,"Employed, full-time",Go;JavaScript;TypeScript,Yes,High,Senior
+Argentina,48000.0,Remote,7,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Go;HTML/CSS;JavaScript;Python,Yes,Medium,Senior
+Brazil,54081.0,"Hybrid (some remote, some in-person)",7,"Employed, full-time",Bash/Shell (all shells);C#;Java;JavaScript,"No, and I don't plan to",Medium,Senior
+Brazil,29838.0,Remote,7,"Employed, full-time",Kotlin;Python;Rust;SQL,"No, and I don't plan to",Medium,Senior
+Brazil,20514.0,In-person,6,"Employed, full-time",Elixir;JavaScript;PHP;Python;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,35433.0,"Hybrid (some remote, some in-person)",28,"Employed, full-time",Lua;SQL,"No, but I plan to soon",Medium,Senior
+Brazil,51202.0,Remote,7,"Employed, full-time",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,Yes,Medium,Senior
+Brazil,22378.0,"Hybrid (some remote, some in-person)",11,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C++;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript,Yes,Medium,Senior
+Chile,27079.0,Remote,9,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Go;Java;TypeScript,"No, and I don't plan to",Medium,Senior
+Mexico,32345.0,Remote,6,"Employed, full-time",HTML/CSS;JavaScript;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,26108.0,Remote,5,"Employed, full-time",Java;SQL,Yes,Medium,Semi Senior
+Brazil,13427.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time;Student, part-time",C#;HTML/CSS;JavaScript;MATLAB;SQL;Visual Basic (.Net),Yes,Low,Semi Senior
+Argentina,5155.0,Remote,9,"Independent contractor, freelancer, or self-employed;Employed, part-time",HTML/CSS;JavaScript;PHP;SQL,Yes,Low,Senior
+Brazil,18649.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time;Student, part-time",Dart;Java;Kotlin,Yes,Low,Semi Senior
+Mexico,30023.0,Remote,6,"Employed, full-time",C#;HTML/CSS;Java;JavaScript;PHP;SQL;Visual Basic (.Net),"No, and I don't plan to",Medium,Semi Senior
+Brazil,24616.0,In-person,3,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;PowerShell;Python;SQL;TypeScript,"No, but I plan to soon",Medium,Semi Senior
+Mexico,7763.0,"Hybrid (some remote, some in-person)",2,"Employed, full-time",Bash/Shell (all shells);Java;JavaScript;Python;SQL;TypeScript,Yes,Low,Junior
+Brazil,51470.0,Remote,26,"Employed, full-time",Delphi,Yes,Medium,Senior
+Brazil,46622.0,Remote,14,"Employed, full-time",Apex;Bash/Shell (all shells);C;HTML/CSS;Java;JavaScript;Kotlin;Perl;PHP;Python;SQL;Swift,"No, but I plan to soon",Medium,Senior
+Mexico,130000.0,Remote,6,"Student, full-time;Independent contractor, freelancer, or self-employed;Not employed, and not looking for work",HTML/CSS;JavaScript;PHP,Yes,High,Semi Senior
+Brazil,7832.0,Remote,2,"Employed, full-time;Student, part-time",C#;HTML/CSS;JavaScript;Python;SQL,Yes,Low,Junior
+Brazil,37297.0,Remote,17,"Employed, full-time",Bash/Shell (all shells);C#;Java;JavaScript;Python;SQL;TypeScript,Yes,Medium,Senior
+Brazil,10257.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;TypeScript,Yes,Low,Semi Senior
+Brazil,17903.0,Remote,3,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Go;HTML/CSS;JavaScript;Python;Rust;SQL,Yes,Low,Semi Senior
+Colombia,20187.0,Remote,,"Employed, full-time;Independent contractor, freelancer, or self-employed",JavaScript;PHP;SQL;TypeScript,Yes,Medium,Senior
+Mexico,30135.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",C#;HTML/CSS;Java;JavaScript;TypeScript,Yes,Medium,Semi Senior
+Brazil,28644.0,Remote,5,"Employed, full-time",Assembly;Bash/Shell (all shells);C;C++;HTML/CSS;Java;JavaScript;Kotlin;PHP;TypeScript,Yes,Medium,Semi Senior
+Uruguay,70679.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",Go;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript;Zig,Yes,High,Semi Senior
+Colombia,16402.0,Remote,5,"Employed, full-time",HTML/CSS;JavaScript;TypeScript,Yes,Low,Semi Senior
+Brazil,16111.0,Remote,3,"Employed, full-time",Assembly;Bash/Shell (all shells);C;C++;GDScript;Go;HTML/CSS;JavaScript;Lua;Python;Rust;TypeScript;Zig,Yes,Low,Semi Senior
+Brazil,17903.0,Remote,10,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C;C#;C++;JavaScript;Kotlin;MicroPython;PowerShell;Prolog;Python;TypeScript,Yes,Low,Senior
+Brazil,12122.0,In-person,6,"Employed, full-time",C#;HTML/CSS;JavaScript;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,70865.0,Remote,14,"Employed, full-time",Swift,Yes,High,Senior
+Brazil,4662.0,In-person,2,"Employed, full-time",C#;Delphi;JavaScript;SQL;TypeScript,"No, but I plan to soon",Low,Junior
+Brazil,12532.0,In-person,5,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;PHP;PowerShell;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,18649.0,Remote,3,"Employed, full-time",Java;JavaScript;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,4662.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,24243.0,In-person,4,"Employed, full-time",Java;JavaScript;SQL,Yes,Medium,Semi Senior
+Brazil,16784.0,In-person,5,"Employed, full-time",Dart;Delphi;Python;SQL,Yes,Low,Semi Senior
+Brazil,9847.0,Remote,3,"Employed, full-time",C#;HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,46995.0,Remote,23,"Employed, full-time;Independent contractor, freelancer, or self-employed",C;C#;C++;JavaScript;Python;SQL,"No, and I don't plan to",Medium,Senior
+Brazil,72000.0,Remote,5,"Employed, full-time",Go;HTML/CSS;Java;JavaScript;Python;TypeScript,Yes,High,Semi Senior
+Brazil,43638.0,In-person,29,"Employed, full-time",C;C#;C++;Java;PowerShell;Python;VBA;Visual Basic (.Net),"No, but I plan to soon",Medium,Senior
+Brazil,7273.0,In-person,3,"Employed, full-time",HTML/CSS;Java;JavaScript;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,167838.0,Remote,9,"Employed, full-time",Bash/Shell (all shells);Clojure;Dart;Python,Yes,High,Senior
+Brazil,64338.0,Remote,12,"Employed, full-time",Bash/Shell (all shells);Clojure;Prolog;Python;Scala,Yes,High,Senior
+Colombia,54201.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time",Clojure,"No, but I plan to soon",Medium,Semi Senior
+Brazil,51470.0,Remote,10,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C++;Python;Ruby;Rust;SQL,Yes,Medium,Senior
+Colombia,15140.0,"Hybrid (some remote, some in-person)",7,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Kotlin;Python;SQL;TypeScript,Yes,Low,Senior
+Mexico,37736.0,Remote,7,"Employed, full-time",Python;SQL,"No, and I don't plan to",Medium,Senior
+Peru,4753.0,In-person,1,"Employed, full-time",Dart;HTML/CSS;TypeScript,"No, and I don't plan to",Low,Junior
+Argentina,16628.0,Remote,24,"Employed, full-time",Java;JavaScript;SQL,Yes,Low,Senior
+Mexico,14016.0,In-person,3,"Employed, full-time",TypeScript,"No, and I don't plan to",Low,Semi Senior
+Brazil,60608.0,Remote,10,"Employed, full-time",Bash/Shell (all shells);Clojure;F#;HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,High,Senior
+Mexico,113856.0,Remote,13,"Employed, full-time",Clojure,"No, and I don't plan to",High,Senior
+Peru,6337.0,"Hybrid (some remote, some in-person)",1,"Employed, full-time;Student, part-time",C#;HTML/CSS;Java;JavaScript;SQL;TypeScript,Yes,Low,Junior
+Brazil,46622.0,Remote,8,"Employed, full-time",Clojure;Go,Yes,Medium,Senior
+Mexico,32345.0,"Hybrid (some remote, some in-person)",2,"Employed, full-time",Bash/Shell (all shells);C#;JavaScript;Python;SQL;TypeScript,Yes,Medium,Junior
+Mexico,32345.0,"Hybrid (some remote, some in-person)",8,"Employed, full-time",Bash/Shell (all shells);C;C++;Groovy;HTML/CSS;Java;JavaScript;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,48487.0,Remote,6,"Employed, full-time",Clojure;Go;Solidity,Yes,Medium,Semi Senior
+Argentina,10000.0,Remote,2,"Employed, full-time;Independent contractor, freelancer, or self-employed;Student, part-time",C;Go;HTML/CSS;JavaScript;Python;Rust;SQL;TypeScript,"No, and I don't plan to",Low,Junior
+Brazil,7459.0,In-person,2,"Employed, full-time;Student, part-time",C#;SQL;TypeScript;Visual Basic (.Net),Yes,Low,Junior
+Mexico,32345.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",Bash/Shell (all shells);C;Lua;MATLAB;Python,Yes,Medium,Semi Senior
+Mexico,32238.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;Lua;PowerShell;Python;R;SQL,Yes,Medium,Semi Senior
+Brazil,3357.0,In-person,Less than 1 year,"Employed, full-time",Delphi;HTML/CSS;Java;JavaScript;PowerShell;Python;SQL;TypeScript,Yes,Low,Unknown
+Argentina,15519.0,In-person,1,"Employed, full-time",C++;HTML/CSS;JavaScript;Python,Yes,Low,Junior
+Brazil,7609.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",Java;JavaScript;SQL;Visual Basic (.Net),Yes,Low,Semi Senior
+Chile,51991.0,Remote,12,"Employed, full-time;Independent contractor, freelancer, or self-employed",Python;SQL,"No, but I plan to soon",Medium,Senior
+Brazil,27973.0,Remote,5,"Employed, full-time",Bash/Shell (all shells);Python,"No, and I don't plan to",Medium,Semi Senior
+Brazil,5595.0,Remote,2,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP;Python;SQL,Yes,Low,Junior
+Brazil,9654.0,In-person,4,"Employed, full-time",C#;HTML/CSS;JavaScript;PowerShell;SQL;Visual Basic (.Net),"No, and I don't plan to",Low,Semi Senior
+Brazil,27973.0,Remote,19,"Employed, full-time;Independent contractor, freelancer, or self-employed",C++;Dart;Java;Kotlin,Yes,Medium,Senior
+Brazil,22378.0,In-person,33,"Employed, full-time",Groovy;Python;Rust,"No, and I don't plan to",Medium,Senior
+Brazil,37297.0,"Hybrid (some remote, some in-person)",10,"Employed, full-time",Clojure;Go;HTML/CSS;Java;JavaScript;PHP;Python;R;SQL,Yes,Medium,Senior
+Brazil,11935.0,"Hybrid (some remote, some in-person)",Less than 1 year,"Employed, full-time",Dart;HTML/CSS;Java;JavaScript;Kotlin;SQL;TypeScript,Yes,Low,Unknown
+Brazil,18649.0,"Hybrid (some remote, some in-person)",10,"Employed, full-time",JavaScript,"No, but I plan to soon",Low,Senior
+Brazil,20514.0,In-person,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;PHP;SQL,"No, and I don't plan to",Medium,Semi Senior
+Argentina,140000.0,Remote,28,"Employed, full-time",Assembly;C;C#;C++;HTML/CSS;Java;JavaScript;Lisp;MATLAB;PowerShell;Python;SQL;TypeScript,Yes,High,Senior
+Brazil,19245.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time;Student, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C#;Delphi;Haskell;JavaScript;Lua;MATLAB;PowerShell;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Mexico,8086.0,In-person,1,"Employed, full-time",C#;HTML/CSS;JavaScript;PHP;SQL,"No, and I don't plan to",Low,Junior
+Brazil,11189.0,Remote,3,"Employed, full-time;Independent contractor, freelancer, or self-employed;Student, part-time",JavaScript;TypeScript,Yes,Low,Semi Senior
+Brazil,4923.0,Remote,2,"Employed, full-time;Independent contractor, freelancer, or self-employed;Student, part-time",HTML/CSS;JavaScript,Yes,Low,Junior
+Brazil,82000.0,Remote,11,"Employed, full-time",C#;HTML/CSS;JavaScript;SQL;TypeScript,"No, and I don't plan to",High,Senior
+Colombia,16906.0,"Hybrid (some remote, some in-person)",2,"Employed, full-time",HTML/CSS;JavaScript;Python,Yes,Low,Junior
+Chile,2708.0,Remote,5,"Employed, full-time",JavaScript;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Mexico,10944.0,In-person,2,"Employed, full-time",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;PowerShell;SQL,Yes,Low,Junior
+Brazil,9324.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",HTML/CSS;JavaScript;SQL;TypeScript,Yes,Low,Semi Senior
+Chile,22096.0,In-person,5,"Employed, full-time",C#;HTML/CSS;JavaScript;SQL;Visual Basic (.Net),"No, but I plan to soon",Medium,Semi Senior
+Brazil,5968.0,In-person,3,"Employed, full-time",HTML/CSS;Java;JavaScript;SQL;TypeScript,"No, but I plan to soon",Low,Semi Senior
+Argentina,27713.0,Remote,12,"Employed, full-time",C#;GDScript;HTML/CSS;JavaScript;Lua;SQL;TypeScript;Visual Basic (.Net),Yes,Medium,Senior
+Peru,4436.0,Remote,Less than 1 year,"Independent contractor, freelancer, or self-employed",HTML/CSS;Java;JavaScript;PHP;Ruby;SQL;TypeScript,Yes,Low,Unknown
+Mexico,87979.0,Remote,17,"Employed, full-time",Bash/Shell (all shells);SQL,Yes,High,Senior
+Mexico,70082.0,"Hybrid (some remote, some in-person)",10,"Employed, full-time",Assembly;Bash/Shell (all shells);C;C++;Erlang;Go;Lua;Prolog;Python;Rust,"No, and I don't plan to",High,Senior
+Brazil,68068.0,"Hybrid (some remote, some in-person)",2,"Employed, full-time",C;Delphi;HTML/CSS;Java;JavaScript;PHP;Python;SQL;VBA,Yes,High,Junior
+Brazil,76433.0,Remote,10,"Employed, full-time",Assembly;Bash/Shell (all shells);C;C#;C++;Elixir;GDScript;Go;Haskell;HTML/CSS;Java;JavaScript;Kotlin;Lisp;PowerShell;Python;Ruby;Rust;SQL;TypeScript;Visual Basic (.Net);Zig,Yes,High,Senior
+Brazil,11189.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",Bash/Shell (all shells);Go;HTML/CSS;Java;JavaScript;PowerShell;Python;SQL;TypeScript,"No, but I plan to soon",Low,Semi Senior
+Brazil,19022.0,Remote,3,"Employed, full-time",Bash/Shell (all shells);Java;Kotlin;Python;SQL,Yes,Low,Semi Senior
+Brazil,48000.0,Remote,24,"Employed, full-time",JavaScript;PHP;SQL,Yes,Medium,Senior
+Brazil,27973.0,Remote,4,"Employed, full-time",Bash/Shell (all shells);C;C++;Dart;Go;Groovy;HTML/CSS;Java;JavaScript;Kotlin;Perl;Python;Ruby;Rust;SQL,Yes,Medium,Semi Senior
+Brazil,26854.0,Remote,14,"Employed, full-time",HTML/CSS;Java;JavaScript;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,7459.0,Remote,5,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP,Yes,Low,Semi Senior
+Brazil,27973.0,Remote,2,"Employed, full-time",Clojure,Yes,Medium,Junior
+Brazil,15665.0,Remote,3,"Employed, full-time",Rust;TypeScript,"No, and I don't plan to",Low,Semi Senior
+Brazil,27973.0,Remote,3,"Employed, full-time;Independent contractor, freelancer, or self-employed",Go;HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,35433.0,Remote,6,"Employed, full-time",Python,Yes,Medium,Semi Senior
+Brazil,7459.0,Remote,3,"Employed, full-time;Student, part-time",HTML/CSS;JavaScript;PHP;TypeScript,"No, but I plan to soon",Low,Semi Senior
+Brazil,4028.0,Remote,2,"Independent contractor, freelancer, or self-employed;Student, part-time",C#;Java;JavaScript;TypeScript,Yes,Low,Junior
+Brazil,44354.0,Remote,12,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C++;Kotlin;Python;Scala;TypeScript,Yes,Medium,Senior
+Mexico,28033.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;PHP;Python,"No, but I plan to soon",Medium,Semi Senior
+Brazil,167838.0,Remote,14,"Employed, full-time;Independent contractor, freelancer, or self-employed",Clojure;Kotlin,"No, and I don't plan to",High,Senior
+Argentina,65900.0,Remote,6,"Employed, full-time",HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,High,Semi Senior
+Mexico,31806.0,Remote,4,"Employed, full-time",Java;JavaScript;Kotlin,Yes,Medium,Semi Senior
+Mexico,6469.0,Remote,3,"Employed, full-time",HTML/CSS;Java;JavaScript;PHP;SQL;TypeScript,"No, but I plan to soon",Low,Semi Senior
+Brazil,128000.0,Remote,6,"Employed, full-time",Go;HTML/CSS;JavaScript;Python;SQL;TypeScript,"No, and I don't plan to",High,Semi Senior
+Brazil,1678.0,Remote,Less than 1 year,"Not employed, but looking for work;Independent contractor, freelancer, or self-employed",Java;JavaScript;Python;TypeScript,Yes,Low,Unknown
+Argentina,3900.0,Remote,Less than 1 year,"Student, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Java;JavaScript;Kotlin;Python;R,"No, and I don't plan to",Low,Unknown
+Argentina,33255.0,Remote,10,"Employed, full-time",Apex;Dart;HTML/CSS;Java;JavaScript;PHP;SQL;TypeScript;Zephyr,Yes,Medium,Senior
+Brazil,85784.0,Remote,7,"Employed, full-time;Independent contractor, freelancer, or self-employed",JavaScript;TypeScript,"No, and I don't plan to",High,Senior
+Brazil,5595.0,Remote,3,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;Dart;HTML/CSS;JavaScript;TypeScript,Yes,Low,Semi Senior
+Brazil,40001.0,Remote,5,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;Python,Yes,Medium,Semi Senior
+Mexico,3235.0,Remote,2,"Employed, full-time",HTML/CSS;JavaScript;Rust;Swift;TypeScript,Yes,Low,Junior
+Brazil,48487.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time",Clojure;Dart;Scala,Yes,Medium,Semi Senior
+Brazil,16577.0,Remote,4,"Employed, full-time",Java;Kotlin;Lua;SQL,Yes,Low,Semi Senior
+Colombia,45420.0,Remote,15,"Employed, full-time",C#,"No, and I don't plan to",Medium,Senior
+Colombia,8559.0,"Hybrid (some remote, some in-person)",2,"Employed, full-time",HTML/CSS;JavaScript,Yes,Low,Junior
+Mexico,2911.0,"Hybrid (some remote, some in-person)",15,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;Java;JavaScript;SQL;TypeScript,"No, but I plan to soon",Low,Senior
+Mexico,51213.0,"Hybrid (some remote, some in-person)",12,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;C++;Crystal;HTML/CSS;JavaScript;PowerShell;SQL;Visual Basic (.Net),"No, but I plan to soon",Medium,Senior
+Brazil,24243.0,Remote,2,"Employed, full-time",Bash/Shell (all shells);Java;JavaScript;SQL,"No, and I don't plan to",Medium,Junior
+Brazil,33941.0,Remote,29,"Employed, full-time",Assembly;C;C#;C++;Delphi;F#;HTML/CSS;Java;JavaScript;Lisp;Python;R;SQL;TypeScript;VBA;Visual Basic (.Net),Yes,Medium,Senior
+Brazil,190000.0,Remote,22,"Independent contractor, freelancer, or self-employed;Employed, part-time",Bash/Shell (all shells);C;C++;Clojure;Go;HTML/CSS;Java;JavaScript;PHP;Python;SQL;Zephyr,"No, but I plan to soon",High,Senior
+Colombia,51173.0,Remote,10,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;TypeScript,Yes,Medium,Senior
+Brazil,44757.0,In-person,22,"Employed, full-time",C++;Delphi;HTML/CSS;JavaScript;TypeScript,"No, and I don't plan to",Medium,Senior
+Brazil,7385.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",C#;Dart;SQL;VBA;Visual Basic (.Net),Yes,Low,Semi Senior
+Brazil,70368.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;Python;SQL;TypeScript,Yes,High,Semi Senior
+Brazil,3384.0,In-person,Less than 1 year,"Employed, full-time;Student, part-time",C;GDScript;HTML/CSS;JavaScript;PHP;Python;SQL,Yes,Low,Unknown
+Brazil,120379.0,Remote,15,"Employed, full-time",Swift,"No, and I don't plan to",High,Senior
+Brazil,25735.0,Remote,14,"Independent contractor, freelancer, or self-employed",Delphi;Groovy;Java;JavaScript;PHP;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,14919.0,Remote,8,"Employed, full-time",C;HTML/CSS;Java;JavaScript;PHP;TypeScript,Yes,Low,Senior
+Brazil,10070.0,Remote,2,"Employed, full-time;Student, part-time",HTML/CSS;JavaScript;PHP;SQL;TypeScript,Yes,Low,Junior
+Argentina,14400.0,Remote,2,"Employed, full-time",Bash/Shell (all shells);Python;SQL,Yes,Low,Junior
+Argentina,20000.0,"Hybrid (some remote, some in-person)",1,"Employed, full-time",HTML/CSS;JavaScript;SQL;TypeScript,Yes,Medium,Junior
+Brazil,63033.0,"Hybrid (some remote, some in-person)",17,"Employed, full-time",Bash/Shell (all shells);Go;JavaScript;Python,"No, and I don't plan to",High,Senior
+Brazil,52216.0,Remote,14,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;Go;HTML/CSS;JavaScript;PHP;PowerShell;SQL;TypeScript,Yes,Medium,Senior
+Brazil,46622.0,Remote,16,"Employed, full-time",Bash/Shell (all shells);C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;VBA;Visual Basic (.Net),"No, but I plan to soon",Medium,Senior
+Brazil,18276.0,Remote,3,"Employed, full-time",HTML/CSS;JavaScript;PHP;TypeScript,"No, and I don't plan to",Low,Semi Senior
+Mexico,32345.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;Dart;Go;HTML/CSS;JavaScript;SQL;TypeScript;VBA,Yes,Medium,Semi Senior
+Brazil,18649.0,Remote,15,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript,Yes,Low,Senior
+Chile,22746.0,Remote,3,"Employed, full-time",Python;SQL,"No, and I don't plan to",Medium,Semi Senior
+Brazil,9324.0,Remote,4,"Employed, full-time",HTML/CSS;Java;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,9063.0,In-person,3,"Employed, full-time",C#;C++;HTML/CSS;Java;JavaScript;Objective-C;PHP;SQL,"No, but I plan to soon",Low,Semi Senior
+Brazil,44757.0,In-person,15,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C;C++;Java;SQL,"No, but I plan to soon",Medium,Senior
+Brazil,42519.0,Remote,8,"Employed, full-time",Bash/Shell (all shells);Java;Python;SQL,Yes,Medium,Senior
+Brazil,28197.0,In-person,17,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;PowerShell;Python;SQL;TypeScript,Yes,Medium,Senior
+Argentina,8314.0,In-person,5,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP;SQL;VBA,"No, but I plan to soon",Low,Semi Senior
+Brazil,67135.0,Remote,15,"Employed, full-time",C#;F#;Groovy;HTML/CSS;JavaScript;Python;SQL;TypeScript,"No, and I don't plan to",High,Senior
+Brazil,24243.0,In-person,8,"Employed, full-time",JavaScript;PHP;SQL,Yes,Medium,Senior
+Uruguay,65000.0,"Hybrid (some remote, some in-person)",30,"Employed, full-time",Bash/Shell (all shells);C++;HTML/CSS;MATLAB;Python,Yes,High,Senior
+Colombia,15140.0,Remote,5,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL;TypeScript,"No, and I don't plan to",Low,Semi Senior
+Colombia,30000.0,Remote,5,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,13054.0,In-person,10,"Employed, full-time",Bash/Shell (all shells);C#;Dart;Delphi;HTML/CSS;JavaScript;PHP;SQL,Yes,Low,Senior
+Brazil,130000.0,In-person,4,"Employed, full-time;Independent contractor, freelancer, or self-employed",C;C#;C++;HTML/CSS;Java;JavaScript;Kotlin;Python;R;Ruby;SQL;TypeScript,Yes,High,Semi Senior
+Brazil,51284.0,Remote,17,"Employed, full-time",Java;JavaScript;Kotlin;Python;SQL;TypeScript,Yes,Medium,Senior
+Brazil,30024.0,Remote,10,"Employed, full-time",JavaScript;TypeScript,Yes,Medium,Senior
+Chile,57624.0,"Hybrid (some remote, some in-person)",9,"Employed, full-time;Independent contractor, freelancer, or self-employed",C;C++;Fortran;Java;Python;Visual Basic (.Net),"No, and I don't plan to",Medium,Senior
+Brazil,17903.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",JavaScript,"No, but I plan to soon",Low,Semi Senior
+Colombia,12188.0,Remote,7,"Employed, full-time",C;C++;MATLAB;MicroPython;Python;SQL,Yes,Low,Senior
+Brazil,32635.0,Remote,12,"Employed, full-time",Go;Python,"No, and I don't plan to",Medium,Senior
+Argentina,30000.0,Remote,3,"Employed, full-time;Student, full-time",Bash/Shell (all shells);C#;Go;HTML/CSS;JavaScript;Python;Rust;SQL;TypeScript,Yes,Medium,Semi Senior
+Brazil,3730.0,Remote,33,"Employed, full-time",C#;HTML/CSS;JavaScript;PHP;Python;SQL,Yes,Low,Senior
+Brazil,13054.0,Remote,3,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Uruguay,78000.0,Remote,9,"Employed, full-time",Python;SQL,Yes,High,Senior
+Colombia,14131.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",Python;SQL,Yes,Low,Semi Senior
+Brazil,74000.0,Remote,16,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PowerShell;Python;TypeScript,Yes,High,Senior
+Brazil,46622.0,In-person,12,"Independent contractor, freelancer, or self-employed",C#;C++;HTML/CSS;Java;JavaScript;Perl;PHP;PowerShell;Python;SQL;VBA;Visual Basic (.Net),"No, but I plan to soon",Medium,Senior
+Argentina,17736.0,Remote,5,"Employed, full-time",Java,"No, and I don't plan to",Low,Semi Senior
+Brazil,29838.0,Remote,11,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Mexico,16173.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",C#;Dart;Elixir;HTML/CSS;Java;JavaScript;PHP;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,46995.0,Remote,12,"Employed, full-time",HTML/CSS;JavaScript;TypeScript,"No, but I plan to soon",Medium,Senior
+Argentina,12000.0,"Hybrid (some remote, some in-person)",28,"Employed, full-time;Student, part-time",HTML/CSS;JavaScript;PHP;SQL;VBA,Yes,Low,Senior
+Mexico,86254.0,"Hybrid (some remote, some in-person)",11,"Employed, full-time",C;C++,Yes,High,Senior
+Brazil,14919.0,Remote,5,"Employed, full-time",HTML/CSS;Java;JavaScript;PHP;SQL,"No, but I plan to soon",Low,Semi Senior
+Brazil,4103.0,"Hybrid (some remote, some in-person)",Less than 1 year,"Student, part-time;Employed, part-time",C#;HTML/CSS;JavaScript;SQL,Yes,Low,Unknown
+Brazil,130541.0,"Hybrid (some remote, some in-person)",30,"Employed, full-time;Independent contractor, freelancer, or self-employed",C;C++;HTML/CSS;JavaScript;Python;SQL,Yes,High,Senior
+Peru,26406.0,"Hybrid (some remote, some in-person)",14,"Employed, full-time;Independent contractor, freelancer, or self-employed",Assembly;Bash/Shell (all shells);C;C++;Dart;HTML/CSS;Java;JavaScript;MATLAB;MicroPython;Python;SQL;Visual Basic (.Net),Yes,Medium,Senior
+Mexico,16712.0,In-person,27,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP;SQL,"No, but I plan to soon",Low,Senior
+Mexico,52831.0,Remote,10,"Employed, full-time",C#;JavaScript;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Colombia,76205.0,Remote,12,"Employed, full-time",Bash/Shell (all shells);Go;Ruby,Yes,High,Senior
+Argentina,18000.0,Remote,3,"Employed, full-time",Python;SQL,Yes,Low,Semi Senior
+Mexico,2695.0,Remote,7,"Employed, full-time;Independent contractor, freelancer, or self-employed;Employed, part-time",HTML/CSS;JavaScript;Solidity;TypeScript,Yes,Low,Senior
+Brazil,13427.0,Remote,5,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#,Yes,Low,Semi Senior
+Brazil,19973.0,Remote,7,"Employed, full-time;Student, part-time",C#;HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Low,Senior
+Brazil,33568.0,Remote,8,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Dart;Go;HTML/CSS;Java;JavaScript;Kotlin;PowerShell;Python;SQL;TypeScript,Yes,Medium,Senior
+Brazil,24989.0,Remote,7,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;TypeScript,Yes,Medium,Senior
+Brazil,74595.0,"Hybrid (some remote, some in-person)",20,"Employed, full-time",Bash/Shell (all shells);Go;Scala,Yes,High,Senior
+Brazil,41307.0,Remote,13,"Employed, full-time",HTML/CSS;JavaScript;SQL,Yes,Medium,Senior
+Brazil,8951.0,Remote,3,"Employed, full-time;Student, part-time",C#;HTML/CSS;JavaScript;SQL;TypeScript,Yes,Low,Semi Senior
+Argentina,79812.0,Remote,29,"Employed, full-time;Independent contractor, freelancer, or self-employed",Apex;SQL,"No, but I plan to soon",High,Senior
+Brazil,24616.0,Remote,2,"Student, part-time;Employed, part-time",Python;SQL,Yes,Medium,Junior
+Brazil,5128.0,In-person,5,"Employed, full-time",GDScript;HTML/CSS;JavaScript;PHP;SQL,Yes,Low,Semi Senior
+Brazil,2797.0,Remote,9,"Employed, full-time",Apex;C;C#;C++;Delphi;HTML/CSS;Java;JavaScript;Kotlin;PowerShell;SQL,"No, but I plan to soon",Low,Senior
+Brazil,45115.0,Remote,8,"Employed, full-time",,"No, but I plan to soon",Medium,Senior
+Colombia,48000.0,Remote,12,"Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;SQL,Yes,Medium,Senior
+Brazil,5595.0,Remote,15,"Employed, full-time;Independent contractor, freelancer, or self-employed",Apex;Bash/Shell (all shells);Go;HTML/CSS;Java;JavaScript;PowerShell;SQL,"No, but I plan to soon",Low,Senior
+Brazil,37297.0,Remote,3,"Employed, full-time",Bash/Shell (all shells);Fortran;Python;VBA,"No, and I don't plan to",Medium,Semi Senior
+Brazil,18649.0,Remote,10,"Independent contractor, freelancer, or self-employed",Clojure;Python;SQL,"No, and I don't plan to",Low,Senior
+Brazil,24243.0,"Hybrid (some remote, some in-person)",25,"Employed, full-time",Apex;JavaScript;SQL,Yes,Medium,Senior
+Brazil,10070.0,In-person,3,"Employed, full-time",Apex;HTML/CSS;JavaScript;Python;SQL,"No, but I plan to soon",Low,Semi Senior
+Brazil,140000.0,Remote,,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);SQL,Yes,High,Senior
+Brazil,15851.0,Remote,2,"Employed, full-time",TypeScript,Yes,Low,Junior
+Argentina,21616.0,Remote,7,"Employed, full-time",Bash/Shell (all shells);C;C++;Go;HTML/CSS;Java;JavaScript;MATLAB;Python;Ruby;SQL;TypeScript,"No, and I don't plan to",Medium,Senior
+Brazil,13987.0,Remote,4,"Employed, full-time",HTML/CSS;Java;JavaScript;TypeScript,Yes,Low,Semi Senior
+Uruguay,85000.0,Remote,Less than 1 year,"Employed, full-time",Scala;TypeScript,"No, and I don't plan to",High,Unknown
+Brazil,11189.0,In-person,2,"Employed, full-time",MATLAB;Python;SQL,"No, and I don't plan to",Low,Junior
+Brazil,8728.0,Remote,3,"Employed, full-time;Student, part-time",HTML/CSS;JavaScript;PHP;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,32449.0,Remote,4,"Employed, full-time;Student, part-time",Bash/Shell (all shells);C;Objective-C;Swift,Yes,Medium,Semi Senior
+Uruguay,70000.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",Haskell;Python;Ruby;SQL,Yes,High,Semi Senior
+Brazil,120000.0,Remote,6,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;SQL;TypeScript,Yes,High,Semi Senior
+Argentina,2200.0,Remote,11,"Employed, full-time;Independent contractor, freelancer, or self-employed",GDScript;HTML/CSS;Java;JavaScript;Lua;PHP;TypeScript,Yes,Low,Senior
+Brazil,11189.0,Remote,10,"Employed, full-time",C#;HTML/CSS;JavaScript;TypeScript,"No, and I don't plan to",Low,Senior
+Brazil,22378.0,"Hybrid (some remote, some in-person)",17,"Employed, full-time",C#;HTML/CSS;JavaScript;PHP;SQL,Yes,Medium,Senior
+Mexico,26954.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",JavaScript;Python;SQL,Yes,Medium,Semi Senior
+Argentina,13856.0,Remote,3,"Employed, full-time",HTML/CSS;JavaScript;Lua;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,44757.0,In-person,33,"Employed, full-time",Bash/Shell (all shells);Dart;HTML/CSS;JavaScript;MATLAB;MicroPython;PowerShell;Python;SQL,"No, but I plan to soon",Medium,Senior
+Argentina,5000.0,In-person,Less than 1 year,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL,Yes,Low,Unknown
+Brazil,22425.0,Remote,20,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript,Yes,Medium,Senior
+Mexico,64691.0,"Hybrid (some remote, some in-person)",11,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;SQL;TypeScript,Yes,High,Senior
+Brazil,5371.0,In-person,1,"Employed, full-time",HTML/CSS;JavaScript,Yes,Low,Junior
+Brazil,21446.0,Remote,5,"Employed, full-time",C++;GDScript;Java;JavaScript;TypeScript,Yes,Medium,Semi Senior
+Colombia,70654.0,Remote,13,"Employed, full-time",HTML/CSS;JavaScript;SQL;TypeScript,Yes,High,Senior
+Argentina,60000.0,Remote,6,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;Ruby,Yes,High,Semi Senior
+Brazil,35433.0,Remote,8,"Employed, full-time;Independent contractor, freelancer, or self-employed",Apex;Java;JavaScript;SQL;TypeScript,Yes,Medium,Senior
+Mexico,19946.0,Remote,8,"Employed, full-time",Elixir;HTML/CSS;Java;JavaScript;PHP;Python;SQL;TypeScript,Yes,Low,Senior
+Argentina,90000.0,Remote,18,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;Java;JavaScript;PHP;Python;TypeScript,"No, but I plan to soon",High,Senior
+Brazil,22378.0,"Hybrid (some remote, some in-person)",14,"Employed, full-time",Java,"No, but I plan to soon",Medium,Senior
+Mexico,13520.0,In-person,3,"Student, part-time;Employed, part-time",C#;HTML/CSS;JavaScript;SQL;TypeScript,"No, but I plan to soon",Low,Semi Senior
+Brazil,1865.0,Remote,1,"Student, full-time;Not employed, but looking for work;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Python;TypeScript,"No, and I don't plan to",Low,Junior
+Brazil,12122.0,Remote,3,"Employed, full-time",C;C#;HTML/CSS;Java;JavaScript;Kotlin;MATLAB;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Uruguay,46926.0,"Hybrid (some remote, some in-person)",2,"Employed, part-time",Groovy;HTML/CSS;Java;JavaScript;SQL;TypeScript,Yes,Medium,Junior
+Mexico,37736.0,Remote,4,"Employed, full-time",Go;HTML/CSS;JavaScript;Kotlin;Objective-C;Python;SQL;Swift;TypeScript,"No, and I don't plan to",Medium,Semi Senior
+Colombia,8327.0,"Hybrid (some remote, some in-person)",Less than 1 year,"Employed, full-time;Student, full-time",Bash/Shell (all shells);Python;SQL;VBA,Yes,Low,Unknown
+Brazil,35433.0,Remote,20,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);HTML/CSS;JavaScript;SQL,"No, but I plan to soon",Medium,Senior
+Brazil,23553.0,Remote,4,"Employed, full-time",Clojure;Lisp;Python;SQL,Yes,Medium,Semi Senior
+Brazil,19022.0,Remote,3,"Employed, full-time;Independent contractor, freelancer, or self-employed",JavaScript;Ruby,Yes,Low,Semi Senior
+Brazil,31330.0,Remote,4,"Employed, full-time",Bash/Shell (all shells);JavaScript;PHP;Python;SQL,Yes,Medium,Semi Senior
+Mexico,38814.0,In-person,12,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL,"No, but I plan to soon",Medium,Senior
+Brazil,40095.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",Go;HTML/CSS;Java;JavaScript;Python;Scala;SQL;TypeScript,Yes,Medium,Semi Senior
+Mexico,48000.0,Remote,10,"Independent contractor, freelancer, or self-employed",JavaScript;Python;Ruby;SQL,"No, but I plan to soon",Medium,Senior
+Mexico,27817.0,In-person,6,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;Python;SQL,Yes,Medium,Semi Senior
+Brazil,8541.0,In-person,1,"Employed, full-time;Student, part-time",Dart;HTML/CSS;Java;JavaScript;Kotlin;PHP;SQL;TypeScript,Yes,Low,Junior
+Brazil,13987.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Lua;MATLAB;Python;R;TypeScript,Yes,Low,Semi Senior
+Brazil,11394.0,In-person,12,"Employed, full-time",Bash/Shell (all shells);Go;HTML/CSS;JavaScript;PHP;Python;TypeScript,"No, and I don't plan to",Low,Senior
+Mexico,107818.0,Remote,8,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;TypeScript,Yes,High,Senior
+Brazil,22378.0,Remote,12,"Employed, full-time",C#;C++;HTML/CSS;Java;JavaScript;MATLAB;PHP;PowerShell;Python;R;Ruby;SQL;VBA;Visual Basic (.Net),"No, but I plan to soon",Medium,Senior
+Mexico,21564.0,In-person,5,"Employed, full-time",Bash/Shell (all shells);Dart;Go;JavaScript;Kotlin;SQL;Swift;TypeScript,"No, and I don't plan to",Medium,Semi Senior
+Brazil,6620.0,Remote,Less than 1 year,"Employed, full-time",Go;HTML/CSS;Java;JavaScript;SQL;TypeScript,Yes,Low,Unknown
+Colombia,62327.0,Remote,14,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;Java;JavaScript,Yes,High,Senior
+Mexico,32345.0,In-person,9,"Employed, full-time",Haskell;Julia;MATLAB;Python;Rust,"No, and I don't plan to",Medium,Senior
+Brazil,16784.0,In-person,6,"Employed, full-time",Bash/Shell (all shells);JavaScript;Lua;PHP;PowerShell;SQL;TypeScript,Yes,Low,Semi Senior
+Argentina,4390.0,"Hybrid (some remote, some in-person)",Less than 1 year,"Student, part-time;Employed, part-time",HTML/CSS;JavaScript;MATLAB;Python;SQL,Yes,Low,Unknown
+Brazil,24243.0,Remote,4,"Employed, full-time;Student, part-time",C#;Python;SQL,Yes,Medium,Semi Senior
+Mexico,21564.0,Remote,7,"Employed, part-time",Bash/Shell (all shells);HTML/CSS;JavaScript;PHP;Python;Ruby;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,14919.0,Remote,7,"Employed, full-time",Dart;Java;Kotlin;Swift,"No, and I don't plan to",Low,Senior
+Brazil,24243.0,Remote,6,"Employed, full-time;Independent contractor, freelancer, or self-employed",Go;Java;JavaScript,Yes,Medium,Semi Senior
+Brazil,13987.0,Remote,2,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;TypeScript;VBA,Yes,Low,Junior
+Mexico,13477.0,"Hybrid (some remote, some in-person)",16,"Independent contractor, freelancer, or self-employed",Dart;Java;Kotlin;MATLAB,Yes,Low,Senior
+Mexico,15202.0,Remote,3,"Employed, full-time",C;C++;HTML/CSS;JavaScript;PHP;PowerShell;SQL;Visual Basic (.Net),Yes,Low,Semi Senior
+Brazil,18649.0,Remote,12,"Employed, full-time",Python;SQL,Yes,Low,Senior
+Mexico,48518.0,"Hybrid (some remote, some in-person)",15,"Independent contractor, freelancer, or self-employed",HTML/CSS;Java;JavaScript;PHP;Python;SQL,"No, but I plan to soon",Medium,Senior
+Colombia,172597.0,Remote,11,"Independent contractor, freelancer, or self-employed",Go;SQL,"No, but I plan to soon",High,Senior
+Colombia,62392.0,Remote,7,"Employed, full-time",HTML/CSS;JavaScript;TypeScript,"No, and I don't plan to",High,Senior
+Colombia,11355.0,Remote,3,"Employed, full-time;Student, full-time",HTML/CSS;Java;JavaScript;Kotlin;Python;Rust;SQL;TypeScript,Yes,Low,Semi Senior
+Argentina,6000.0,Remote,15,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Ruby;SQL;TypeScript,Yes,Low,Senior
+Brazil,29092.0,Remote,9,"Employed, full-time",C#;JavaScript;SQL;TypeScript,"No, and I don't plan to",Medium,Senior
+Brazil,11189.0,Remote,9,"Employed, full-time",HTML/CSS;Ruby;SQL,Yes,Low,Senior
+Brazil,1865.0,In-person,25,"Employed, full-time",Bash/Shell (all shells);Python;SQL,Yes,Low,Senior
+Mexico,150000.0,Remote,9,"Employed, full-time",Go;JavaScript;TypeScript,Yes,High,Senior
+Brazil,8205.0,In-person,2,"Employed, full-time",HTML/CSS;JavaScript;PHP;Python;SQL,"No, and I don't plan to",Low,Junior
+Peru,19963.0,Remote,7,"Employed, full-time",HTML/CSS;JavaScript;Python;SQL,Yes,Low,Senior
+Mexico,45284.0,Remote,14,"Employed, full-time",JavaScript;Ruby;SQL,Yes,Medium,Senior
+Colombia,20124.0,Remote,7,"Employed, full-time;Student, part-time",Bash/Shell (all shells);Dart;Go;HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript,"No, and I don't plan to",Medium,Senior
+Brazil,2685.0,"Hybrid (some remote, some in-person)",3,"Independent contractor, freelancer, or self-employed;Employed, part-time",Bash/Shell (all shells);Go;HTML/CSS;JavaScript;Lua;Python;TypeScript,Yes,Low,Semi Senior
+Brazil,9697.0,In-person,2,"Employed, full-time",HTML/CSS;Python,Yes,Low,Junior
+Chile,70738.0,Remote,9,"Employed, full-time",Elixir;Python;SQL,Yes,High,Senior
+Brazil,9697.0,In-person,1,"Employed, full-time",,"No, and I don't plan to",Low,Junior
+Brazil,16040.0,Remote,9,"Employed, full-time",Bash/Shell (all shells);C#;PowerShell;Python;SQL,"No, and I don't plan to",Low,Senior
+Brazil,11842.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",Java;JavaScript;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Brazil,20087.0,In-person,2,"Employed, full-time",C++,Yes,Medium,Junior
+Brazil,111892.0,Remote,14,"Employed, full-time",Ruby,Yes,High,Senior
+Brazil,17903.0,Remote,4,"Employed, full-time",JavaScript,"No, and I don't plan to",Low,Semi Senior
+Brazil,4662.0,Remote,2,"Employed, full-time",C#;HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript,Yes,Low,Junior
+Brazil,15665.0,Remote,23,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP;Python;SQL,Yes,Low,Senior
+Brazil,5595.0,Remote,Less than 1 year,"Employed, full-time;Independent contractor, freelancer, or self-employed",C;C#;C++;Cobol;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript;Visual Basic (.Net),Yes,Low,Unknown
+Brazil,83919.0,Remote,14,"Employed, full-time",Bash/Shell (all shells);JavaScript;Ruby;SQL,"No, and I don't plan to",High,Senior
+Colombia,9084.0,Remote,11,"Employed, full-time",Dart;JavaScript;PHP,Yes,Low,Senior
+Brazil,186487.0,"Hybrid (some remote, some in-person)",22,"Employed, full-time",C#;Python;VBA,Yes,High,Senior
+Brazil,18649.0,"Hybrid (some remote, some in-person)",13,"Employed, full-time",Bash/Shell (all shells);C;C++;Dart;HTML/CSS;Java;JavaScript;Kotlin;PHP;Python;SQL,Yes,Low,Senior
+Mexico,26415.0,"Hybrid (some remote, some in-person)",1,"Employed, full-time",Bash/Shell (all shells);Go;HTML/CSS;JavaScript;Perl;Python;TypeScript,Yes,Medium,Junior
+Chile,38864.0,Remote,5,"Not employed, but looking for work;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Go;HTML/CSS;Java;JavaScript;Python;Ruby;SQL;TypeScript,Yes,Medium,Semi Senior
+Argentina,40000.0,Remote,20,"Employed, full-time",Assembly;C;C++;F#;Go;Haskell;Java;JavaScript;Lisp;PHP;SQL;TypeScript;Visual Basic (.Net),Yes,Medium,Senior
+Brazil,41027.0,Remote,23,"Employed, full-time",HTML/CSS;JavaScript;Ruby;SQL,"No, but I plan to soon",Medium,Senior
+Brazil,84000.0,Remote,7,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Elixir;JavaScript;Ruby;SQL,Yes,High,Senior
+Argentina,75000.0,Remote,5,"Employed, full-time",JavaScript;SQL;TypeScript,Yes,High,Semi Senior
+Chile,25996.0,Remote,7,"Employed, full-time",Ruby;SQL,Yes,Medium,Senior
+Brazil,2238.0,Remote,26,"Employed, full-time",Bash/Shell (all shells);Groovy;Java;PowerShell;Python;Ruby,"No, but I plan to soon",Low,Senior
+Brazil,2126.0,Remote,Less than 1 year,"Employed, part-time",HTML/CSS;Java;JavaScript;TypeScript,Yes,Low,Unknown
+Brazil,6154.0,Remote,4,"Employed, full-time",Bash/Shell (all shells);C++;HTML/CSS;JavaScript;PHP,Yes,Low,Semi Senior
+Argentina,43500.0,Remote,4,"Employed, full-time",C++;JavaScript;Python,Yes,Medium,Semi Senior
+Mexico,43127.0,"Hybrid (some remote, some in-person)",10,"Employed, full-time",C#;Java;SQL,Yes,Medium,Senior
+Brazil,26071.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",Bash/Shell (all shells);C#;HTML/CSS;Java;JavaScript;PowerShell;Python;SQL;TypeScript,Yes,Medium,Semi Senior
+Colombia,60000.0,Remote,4,"Employed, full-time",Bash/Shell (all shells);Java;Python;SQL,Yes,High,Semi Senior
+Brazil,20887.0,"Hybrid (some remote, some in-person)",12,"Employed, full-time",Dart;HTML/CSS;Java;JavaScript;Python;SQL,Yes,Medium,Senior
+Mexico,32345.0,In-person,16,"Employed, full-time",HTML/CSS;PHP;Python;SQL,Yes,Medium,Senior
+Brazil,8951.0,In-person,8,"Employed, full-time",Bash/Shell (all shells);Dart;HTML/CSS;JavaScript;PHP;PowerShell;SQL,"No, but I plan to soon",Low,Senior
+Brazil,4476.0,Remote,2,"Student, part-time;Employed, part-time",Dart,Yes,Low,Junior
+Argentina,55200.0,Remote,9,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;SQL,Yes,Medium,Senior
+Brazil,13576.0,"Hybrid (some remote, some in-person)",10,"Employed, full-time",C#;C++;HTML/CSS;JavaScript;SQL;TypeScript,Yes,Low,Senior
+Brazil,1212.0,Remote,2,"Employed, full-time",HTML/CSS;Java;JavaScript;TypeScript,Yes,Low,Junior
+Brazil,15851.0,Remote,11,"Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Python;SQL,Yes,Low,Senior
+Brazil,60422.0,Remote,4,"Employed, full-time",Elixir;JavaScript;Python;Ruby;SQL,Yes,High,Semi Senior
+Brazil,10070.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",HTML/CSS;JavaScript;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Mexico,1617.0,Remote,10,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;SQL;Visual Basic (.Net),Yes,Low,Senior
+Argentina,62400.0,Remote,7,"Employed, full-time",Go;HTML/CSS;JavaScript;Rust;SQL;TypeScript,Yes,High,Senior
+Uruguay,120000.0,Remote,16,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);JavaScript;Python;Rust;TypeScript,Yes,High,Senior
+Brazil,33568.0,Remote,8,"Employed, full-time",C#;F#;HTML/CSS;JavaScript;Lua;PowerShell;Rust,"No, and I don't plan to",Medium,Senior
+Brazil,58184.0,Remote,30,"Employed, full-time",Bash/Shell (all shells);Java;Kotlin,Yes,Medium,Senior
+Mexico,38814.0,Remote,9,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript,Yes,Medium,Senior
+Brazil,5956.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time",JavaScript;R,Yes,Low,Semi Senior
+Mexico,48518.0,"Hybrid (some remote, some in-person)",17,"Employed, full-time",Bash/Shell (all shells);Java;JavaScript;Python;SQL,"No, and I don't plan to",Medium,Senior
+Chile,54158.0,Remote,15,"Independent contractor, freelancer, or self-employed",C;C#;JavaScript;Objective-C;SQL,Yes,Medium,Senior
+Mexico,31267.0,Remote,3,"Employed, full-time;Student, part-time",HTML/CSS;JavaScript;Python;SQL,"No, but I plan to soon",Medium,Semi Senior
+Brazil,22378.0,"Hybrid (some remote, some in-person)",6,"Employed, full-time",JavaScript;TypeScript,Yes,Medium,Semi Senior
+Argentina,6651.0,Remote,10,"Independent contractor, freelancer, or self-employed",Visual Basic (.Net),"No, and I don't plan to",Low,Senior
+Uruguay,75994.0,Remote,9,"Employed, full-time",C#;HTML/CSS;JavaScript;SQL;TypeScript,Yes,High,Senior
+Brazil,16597.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;GDScript;HTML/CSS;JavaScript;TypeScript,Yes,Low,Semi Senior
+Uruguay,90000.0,"Hybrid (some remote, some in-person)",19,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Python;R;Ruby;Rust;SQL;TypeScript,Yes,High,Senior
+Brazil,12122.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time;Student, part-time",C;C#;C++;Dart;Go;JavaScript;PHP;TypeScript,Yes,Low,Semi Senior
+Argentina,56201.0,Remote,10,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C;C++;HTML/CSS;Java;JavaScript;SQL;TypeScript,Yes,Medium,Senior
+Brazil,27041.0,"Hybrid (some remote, some in-person)",3,"Employed, full-time",Bash/Shell (all shells);C;C++;Java;Kotlin;Lua;MATLAB,Yes,Medium,Semi Senior
+Colombia,73177.0,Remote,8,"Employed, full-time",Elixir;Python;SQL,"No, and I don't plan to",High,Senior
+Brazil,2238.0,Remote,Less than 1 year,"Employed, part-time",JavaScript;Ruby,Yes,Low,Unknown
+Mexico,3019.0,Remote,15,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;HTML/CSS;JavaScript;Perl;SQL;VBA;Visual Basic (.Net),Yes,Low,Senior
+Colombia,48070.0,Remote,10,"Independent contractor, freelancer, or self-employed",Dart;HTML/CSS;JavaScript;TypeScript,Yes,Medium,Senior
+Mexico,31698.0,"Hybrid (some remote, some in-person)",5,"Employed, full-time",Python;SQL;Visual Basic (.Net),"No, but I plan to soon",Medium,Semi Senior
+Brazil,12122.0,Remote,9,"Employed, full-time",MATLAB;Python;R;SQL,Yes,Low,Senior
+Argentina,7981.0,Remote,2,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;JavaScript;Lua;PowerShell;Python;SQL;TypeScript,"No, and I don't plan to",Low,Junior
+Brazil,1756.0,"Hybrid (some remote, some in-person)",10,"Employed, full-time",C#;HTML/CSS;JavaScript;Python;SQL;TypeScript;VBA;Visual Basic (.Net),Yes,Low,Senior
+Argentina,12000.0,Remote,13,"Employed, full-time",C++;Go;HTML/CSS;JavaScript;PHP;Python;SQL,Yes,Low,Senior
+Chile,60000.0,Remote,20,"Employed, full-time",Bash/Shell (all shells);Java;JavaScript;Python;TypeScript;Visual Basic (.Net),Yes,High,Senior
+Brazil,16605.0,In-person,5,"Employed, full-time",Bash/Shell (all shells);C;C#;C++;Java;JavaScript;MATLAB;PHP;Python;R;SQL,"No, but I plan to soon",Low,Semi Senior
+Argentina,80000.0,Remote,28,"Employed, full-time",Go;Python,Yes,High,Senior
+Brazil,6714.0,In-person,2,"Employed, full-time",Bash/Shell (all shells);C#;HTML/CSS;Java;JavaScript;PowerShell;Python;SQL;TypeScript;VBA;Visual Basic (.Net),Yes,Low,Junior
+Mexico,120000.0,Remote,11,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);Dart;Elixir;JavaScript;Python;Ruby;SQL;TypeScript,Yes,High,Senior
+Brazil,33568.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",Bash/Shell (all shells);HTML/CSS;Java;JavaScript;PowerShell;Python;R;SQL;TypeScript;VBA,Yes,Medium,Semi Senior
+Colombia,30000.0,Remote,5,"Employed, full-time",Python;SQL,Yes,Medium,Semi Senior
+Brazil,33568.0,Remote,13,"Employed, full-time",Bash/Shell (all shells);Python,"No, and I don't plan to",Medium,Senior
+Uruguay,40094.0,"Hybrid (some remote, some in-person)",12,"Employed, full-time;Student, part-time",C#;HTML/CSS;JavaScript;SQL;Visual Basic (.Net),"No, and I don't plan to",Medium,Senior
+Brazil,43824.0,"Hybrid (some remote, some in-person)",13,"Employed, full-time",Groovy;HTML/CSS;Java;JavaScript;Perl;Python;Ruby;SQL,"No, and I don't plan to",Medium,Senior
+Brazil,24243.0,Remote,9,"Employed, full-time",Python;SQL;TypeScript,Yes,Medium,Senior
+Brazil,43824.0,Remote,11,"Employed, full-time;Student, part-time",C#;Go;HTML/CSS;JavaScript;PowerShell;Python;R;SQL;TypeScript,Yes,Medium,Senior
+Brazil,69000.0,Remote,9,"Employed, full-time",HTML/CSS;JavaScript;TypeScript,Yes,High,Senior
+Brazil,41960.0,Remote,12,"Employed, full-time",Bash/Shell (all shells);C#;Dart;HTML/CSS;Java;JavaScript;PHP;Python;TypeScript,"No, but I plan to soon",Medium,Senior
+Brazil,31703.0,"Hybrid (some remote, some in-person)",1,"Employed, full-time",Bash/Shell (all shells);C#;Elixir;Go;JavaScript;Python;SQL;TypeScript;Visual Basic (.Net),Yes,Medium,Junior
+Brazil,14919.0,In-person,9,"Employed, full-time",PHP;TypeScript,Yes,Low,Senior
+Argentina,14000.0,Remote,6,"Employed, full-time",HTML/CSS;Java;JavaScript;PowerShell;Python;SQL;TypeScript,Yes,Low,Semi Senior
+Argentina,105000.0,Remote,14,"Employed, full-time;Independent contractor, freelancer, or self-employed",Assembly;Bash/Shell (all shells);C;C++;Go;Groovy;HTML/CSS;Java;JavaScript;Kotlin;PHP;Python;R;Ruby;Solidity;SQL;TypeScript,Yes,High,Senior
+Brazil,130000.0,Remote,10,"Employed, full-time;Independent contractor, freelancer, or self-employed",Elixir;Rust;SQL;TypeScript,Yes,High,Senior
+Brazil,1865.0,In-person,,"Employed, part-time",HTML/CSS;Java;JavaScript,"No, but I plan to soon",Low,Senior
+Mexico,18922.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time",HTML/CSS;JavaScript;PHP;SQL;Swift,Yes,Low,Semi Senior
+Brazil,1492.0,Remote,2,"Employed, full-time",Ruby;SQL,Yes,Low,Junior
+Mexico,18113.0,In-person,2,"Employed, full-time",HTML/CSS;JavaScript;PHP;Ruby;TypeScript,Yes,Low,Junior
+Mexico,24259.0,Remote,3,"Employed, full-time;Independent contractor, freelancer, or self-employed",HTML/CSS;JavaScript;Kotlin;PowerShell;Python;SQL;TypeScript;Visual Basic (.Net),Yes,Medium,Semi Senior
+Brazil,64898.0,In-person,35,"Employed, full-time",C++;Java,"No, but I plan to soon",High,Senior
+Argentina,11426.0,Remote,2,"Employed, full-time;Independent contractor, freelancer, or self-employed",C#;C++;Java,Yes,Low,Junior
+Peru,200000.0,Remote,8,"Independent contractor, freelancer, or self-employed;Not employed, and not looking for work",HTML/CSS;JavaScript;Kotlin;Objective-C;SQL;Swift;TypeScript,Yes,High,Senior
+Brazil,34183.0,In-person,5,"Employed, full-time",Bash/Shell (all shells);Go;Perl;Python;SQL,"No, and I don't plan to",Medium,Semi Senior
+Brazil,53335.0,"Hybrid (some remote, some in-person)",20,"Employed, full-time",C;MATLAB;Python,"No, but I plan to soon",Medium,Senior
+Peru,55000.0,Remote,4,"Employed, full-time;Independent contractor, freelancer, or self-employed",Groovy;JavaScript;Kotlin;TypeScript,Yes,Medium,Semi Senior
+Brazil,30211.0,In-person,13,"Employed, full-time",HTML/CSS;Java;JavaScript;SQL;TypeScript,Yes,Medium,Senior
+Argentina,11972.0,Remote,3,"Employed, full-time",Bash/Shell (all shells);C;C++;Groovy;HTML/CSS;Java;JavaScript;Python;Ruby;SQL,Yes,Low,Semi Senior
+Mexico,48518.0,"Hybrid (some remote, some in-person)",4,"Employed, full-time;Independent contractor, freelancer, or self-employed",C;C++;HTML/CSS;JavaScript;PHP;PowerShell;Python;SQL,Yes,Medium,Semi Senior
+Brazil,32728.0,Remote,7,"Employed, full-time",Go;JavaScript;TypeScript,"No, and I don't plan to",Medium,Senior
+Mexico,24033.0,Remote,10,"Employed, full-time",Bash/Shell (all shells);Java;JavaScript;Python;SQL;TypeScript,"No, but I plan to soon",Medium,Senior
+Argentina,14411.0,Remote,2,"Employed, full-time",HTML/CSS;JavaScript;SQL;TypeScript,"No, and I don't plan to",Low,Junior
+Mexico,161727.0,Remote,10,"Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C;Clojure;Haskell;HTML/CSS;Lisp;TypeScript,"No, but I plan to soon",High,Senior
+Brazil,18649.0,Remote,10,"Employed, full-time;Independent contractor, freelancer, or self-employed",Bash/Shell (all shells);C;C#;C++;Elixir;Erlang;Groovy;Haskell;HTML/CSS;JavaScript;Kotlin;Lua;Perl;Python;Ruby;Rust;TypeScript,Yes,Low,Senior
+Brazil,24243.0,In-person,3,"Employed, full-time",C#;JavaScript;Python;SQL;TypeScript,"No, but I plan to soon",Medium,Semi Senior
+Colombia,60000.0,Remote,15,"Employed, full-time",C;C++;HTML/CSS;JavaScript;Julia;Perl;PHP;Python;SQL,Yes,High,Senior
+Brazil,4364.0,In-person,2,"Employed, full-time",Bash/Shell (all shells);C;HTML/CSS;JavaScript;Lua;PHP;Python;SQL,Yes,Low,Junior

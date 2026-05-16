@@ -1,5 +1,5 @@
 # LATAM Tech Labor Market Analysis 2024
-![Dashboard Preview](images/dashboard_overview.png)
+![Dashboard Preview](images/dasboard_preview.png)
 
 Data analysis and interactive dashboard exploring salary trends, remote work adoption, AI usage and technology preferences among developers in Latin America.
 

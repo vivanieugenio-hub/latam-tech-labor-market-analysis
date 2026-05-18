@@ -3,7 +3,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-black)
 ![Looker Studio](https://img.shields.io/badge/Looker-Studio-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![Dashboard Preview](dashboard_overview.png)
+![Dashboard Preview](images/dashboard_overview.png)
 Data analysis and interactive dashboard exploring salary trends, remote work adoption, AI usage and technology preferences among developers in Latin America.
 
 ---
@@ -67,19 +67,19 @@ The repository contains processed datasets used for data cleaning, exploratory a
 
 ### Market Overview
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](images/dashboard_overview.png)
 
 ---
 
 ### Salary & Experience Analysis
 
-![Salary Analysis](salary_analysis.png)
+![Salary Analysis](images/salary_analysis.png)
 
 ---
 
 ### AI & Technology Trends
 
-![AI Trends](ai_trends.png)
+![AI Trends](images/ai_trends.png)
 
 ---
 

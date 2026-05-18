@@ -42,6 +42,10 @@ Stack Overflow Developer Survey 2024
 
 https://survey.stackoverflow.co/2024/
 
+Due to GitHub file size limitations, the original raw dataset is not included in this repository.
+
+The repository contains processed datasets used for data cleaning, exploratory analysis and dashboard development.
+
 ---
 
 ## Key Insights

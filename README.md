@@ -1,4 +1,8 @@
 # LATAM Tech Labor Market Analysis 2024
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Pandas](https://img.shields.io/badge/Pandas-EDA-black)
+![Looker Studio](https://img.shields.io/badge/Looker-Studio-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Dashboard Preview](dashboard_overview.png)
 Data analysis and interactive dashboard exploring salary trends, remote work adoption, AI usage and technology preferences among developers in Latin America.
 
@@ -57,15 +61,21 @@ https://survey.stackoverflow.co/2024/
 
 ## Dashboard Preview
 
-### Technology & AI Trends
+### Market Overview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ---
 
-### Compensation & Experience Analysis
+### Salary & Experience Analysis
 
-![Salary Analysis](images/salary_analysis.png)
+![Salary Analysis](salary_analysis.png)
+
+---
+
+### AI & Technology Trends
+
+![AI Trends](ai_trends.png)
 
 ---
 

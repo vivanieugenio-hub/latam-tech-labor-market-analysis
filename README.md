@@ -61,6 +61,15 @@ The repository contains processed datasets used for data cleaning, exploratory a
 
 ---
 
+## Methodology
+
+- Data cleaning and preprocessing using Python and Pandas
+- Filtering LATAM respondents from the Stack Overflow Developer Survey 2024
+- Exploratory Data Analysis (EDA) on salary, seniority and remote work variables
+- Dashboard development and storytelling using Looker Studio
+
+---
+
 ## Key Insights
 
 - In LATAM, salary progression in the tech sector is strongly linked to seniority. Developers with more than 10 years of experience earn nearly 3x more than junior profiles with less than 2 years in the industry. Senior salaries frequently exceed USD 45K–50K annually, while junior compensation often remains below USD 15K. Brazil and Chile concentrate the highest median salary ranges in the region (~USD 30K–40K), while Argentina and Colombia tend to show lower compensation levels.

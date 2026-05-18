@@ -63,13 +63,13 @@ The repository contains processed datasets used for data cleaning, exploratory a
 
 ## Key Insights
 
-- Compensation growth across seniority levels suggests strong market premiums for experienced developers in LATAM's remote-first ecosystem.
+- In LATAM, salary progression in the tech sector is strongly linked to seniority. Developers with more than 10 years of experience earn nearly 3x more than junior profiles with less than 2 years in the industry. Senior salaries frequently exceed USD 45K–50K annually, while junior compensation often remains below USD 15K. Brazil and Chile concentrate the highest median salary ranges in the region (~USD 30K–40K), while Argentina and Colombia tend to show lower compensation levels.
 
-- Remote and hybrid work arrangements dominate the regional market, indicating that flexible work structures remain central to tech hiring strategies.
+- Remote and hybrid work models now dominate the regional tech ecosystem, representing more than half of the employment arrangements observed in the dataset. Senior developers show the highest participation in fully remote roles, while junior profiles remain more concentrated in hybrid and onsite positions. This suggests that access to international remote opportunities continues to favor experienced talent.
 
-- JavaScript, Python and SQL continue to act as foundational technologies across both web development and data-oriented roles.
+- Technology adoption patterns reveal a strong convergence between software engineering and data-oriented workflows. JavaScript, Python and SQL consistently appear as the most widely used technologies across the region, reflecting sustained demand for versatile multi-stack profiles. The strong presence of SQL and Python also highlights the growing importance of data-related skills beyond traditional software development roles.
 
-- AI adoption appears significantly stronger among senior profiles, suggesting that experienced professionals are integrating AI tools more aggressively into production workflows.
+- AI adoption appears significantly stronger among experienced developers, indicating faster integration of AI-assisted workflows within senior technical roles. Higher AI usage among senior professionals may reflect greater access to organizational resources, workflow autonomy and experimentation opportunities. The growing penetration of AI tools suggests that familiarity with AI-assisted development is rapidly becoming a baseline expectation across the regional tech workforce.
 
 ---
 

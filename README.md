@@ -21,7 +21,20 @@ The analysis focuses on:
 - Most used technologies
 - Workforce trends in the regional tech ecosystem
 
+The dashboard was designed to simulate real-world business intelligence reporting workflows and labor market analysis.
+
 ---
+
+## Business Value
+
+This analysis can support:
+- Hiring strategy evaluation
+- Compensation benchmarking
+- Remote work policy analysis
+- Technology trend monitoring
+- Workforce planning across LATAM markets
+
+--- 
 
 ## Tools & Technologies
 
@@ -50,16 +63,30 @@ The repository contains processed datasets used for data cleaning, exploratory a
 
 ## Key Insights
 
-- Senior developers earn significantly higher salaries across LATAM markets.
-- Remote and hybrid work models dominate the regional tech ecosystem.
-- JavaScript, Python and SQL remain the most widely used technologies.
-- AI tool adoption shows strong penetration among experienced developers.
+- Compensation growth across seniority levels suggests strong market premiums for experienced developers in LATAM's remote-first ecosystem.
+
+- Remote and hybrid work arrangements dominate the regional market, indicating that flexible work structures remain central to tech hiring strategies.
+
+- JavaScript, Python and SQL continue to act as foundational technologies across both web development and data-oriented roles.
+
+- AI adoption appears significantly stronger among senior profiles, suggesting that experienced professionals are integrating AI tools more aggressively into production workflows.
 
 ---
 
 ## Interactive Dashboard
 
 [View Dashboard Here](https://datastudio.google.com/reporting/edb97cbc-affb-474e-a0f2-77ff2e6f34ad)
+
+---
+
+## Dashboard Features
+
+- Dynamic country filtering
+- Seniority segmentation
+- Salary benchmarking
+- AI adoption analysis
+- Technology usage trends
+- Remote work distribution analysis
 
 ---
 
@@ -94,8 +121,32 @@ latam-tech-labor-market-analysis/
 ├── README.md
 └── requirements.txt
 ```
-
 ---
+
+## Workflow
+
+Raw Survey Data
+↓
+Data Cleaning & Preprocessing (Python/Pandas)
+↓
+Exploratory Data Analysis
+↓
+Feature Engineering
+↓
+Interactive Dashboard Development (Looker Studio)
+↓
+Market Insights & Storytelling
+---
+
+## Future Improvements
+
+- Add salary distribution histograms
+- Incorporate role-specific salary analysis
+- Explore correlations between AI usage and compensation
+- Include country-level technology specialization analysis
+- Build SQL version of the analysis pipeline
+
+--- 
 
 ## Author
 

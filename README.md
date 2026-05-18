@@ -126,15 +126,25 @@ latam-tech-labor-market-analysis/
 ## Workflow
 
 Raw Survey Data
+
 ↓
+
 Data Cleaning & Preprocessing (Python/Pandas)
+
 ↓
+
 Exploratory Data Analysis
+
 ↓
+
 Feature Engineering
+
 ↓
+
 Interactive Dashboard Development (Looker Studio)
+
 ↓
+
 Market Insights & Storytelling
 ---
 

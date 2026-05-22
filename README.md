@@ -23,11 +23,11 @@ Map the current state of the tech labor market in LATAM, identifying salary benc
 
 ### Dashboard Preview
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](images/dashboard_overview.png)
 
-![Salary Analysis](salary_analysis.png)
+![Salary Analysis](images/salary_analysis.png)
 
-![AI Trends](ai_trends.png)
+![AI Trends](images/ai_trends.png)
 
 ---
 

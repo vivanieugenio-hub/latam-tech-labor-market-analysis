@@ -1,179 +1,111 @@
-# LATAM Tech Labor Market Analysis 2024
+# 🌎 LATAM Tech Labor Market Analysis 2024
+
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-black)
 ![Looker Studio](https://img.shields.io/badge/Looker-Studio-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![Dashboard Preview](images/dashboard_overview.png)
-Data analysis and interactive dashboard exploring salary trends, remote work adoption, AI usage and technology preferences among developers in Latin America.
+![Data Source](https://img.shields.io/badge/Source-Stack%20Overflow%20Survey%202024-lightgrey)
+
+Exploratory data analysis and interactive dashboard exploring **salary trends, remote work adoption, AI tool usage, and technology preferences** among developers across Latin America — based on the Stack Overflow Developer Survey 2024.
 
 ---
 
-## Project Overview
+## 🎯 Objective
 
-This project analyzes data from the Stack Overflow Developer Survey 2024 to identify key labor market trends across LATAM countries.
-
-The analysis focuses on:
-
-- Salary distribution across countries
-- Salary differences by seniority
-- Remote work adoption
-- AI tool usage
-- Most used technologies
-- Workforce trends in the regional tech ecosystem
-
-The dashboard was designed to simulate real-world business intelligence reporting workflows and labor market analysis.
+Map the current state of the tech labor market in LATAM, identifying salary benchmarks by country and seniority, remote work adoption patterns, and the pace of AI integration among developers — providing actionable insights for professionals and hiring teams operating in the region.
 
 ---
 
-## Business Value
+## 📊 Interactive Dashboard
 
-This analysis can support:
-- Hiring strategy evaluation
-- Compensation benchmarking
-- Remote work policy analysis
-- Technology trend monitoring
-- Workforce planning across LATAM markets
+👉 [**View Live Dashboard on Looker Studio**](https://datastudio.google.com/reporting/edb97cbc-affb-474e-a0f2-77ff2e6f34ad)
 
---- 
+### Dashboard Preview
 
-## Tools & Technologies
+![Dashboard Overview](dashboard_overview.png)
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Google Colab
-- Looker Studio
-- GitHub
+![Salary Analysis](salary_analysis.png)
+
+![AI Trends](ai_trends.png)
 
 ---
 
-## Dataset
+## 🔍 Analyses Performed
 
-Source:
-Stack Overflow Developer Survey 2024
-
-https://survey.stackoverflow.co/2024/
-
-Due to GitHub file size limitations, the original raw dataset is not included in this repository.
-
-The repository contains processed datasets used for data cleaning, exploratory analysis and dashboard development.
-
----
-
-## Methodology
-
-- Data cleaning and preprocessing using Python and Pandas
-- Filtering LATAM respondents from the Stack Overflow Developer Survey 2024
-- Exploratory Data Analysis (EDA) on salary, seniority and remote work variables
-- Dashboard development and storytelling using Looker Studio
+| # | Analysis | Focus |
+|---|----------|-------|
+| 1 | Salary distribution by country | Argentina, Brazil, Mexico, Colombia, Chile |
+| 2 | Salary by seniority level | Junior → Senior differential |
+| 3 | Remote & hybrid work adoption | Regional penetration rates |
+| 4 | AI tool usage | By experience level and country |
+| 5 | Most-used technologies | Languages, frameworks, databases |
+| 6 | Workforce trends | Regional tech ecosystem overview |
 
 ---
 
-## Key Insights
+## 💡 Key Insights
 
-- In LATAM, salary progression in the tech sector is strongly linked to seniority. Developers with more than 10 years of experience earn nearly 3x more than junior profiles with less than 2 years in the industry. Senior salaries frequently exceed USD 45K–50K annually, while junior compensation often remains below USD 15K. Brazil and Chile concentrate the highest median salary ranges in the region (~USD 30K–40K), while Argentina and Colombia tend to show lower compensation levels.
-
-- Remote and hybrid work models now dominate the regional tech ecosystem, representing more than half of the employment arrangements observed in the dataset. Senior developers show the highest participation in fully remote roles, while junior profiles remain more concentrated in hybrid and onsite positions. This suggests that access to international remote opportunities continues to favor experienced talent.
-
-- Technology adoption patterns reveal a strong convergence between software engineering and data-oriented workflows. JavaScript, Python and SQL consistently appear as the most widely used technologies across the region, reflecting sustained demand for versatile multi-stack profiles. The strong presence of SQL and Python also highlights the growing importance of data-related skills beyond traditional software development roles.
-
-- AI adoption appears significantly stronger among experienced developers, indicating faster integration of AI-assisted workflows within senior technical roles. Higher AI usage among senior professionals may reflect greater access to organizational resources, workflow autonomy and experimentation opportunities. The growing penetration of AI tools suggests that familiarity with AI-assisted development is rapidly becoming a baseline expectation across the regional tech workforce.
+- **Senior developers earn significantly more** across all LATAM markets — the seniority salary premium is the strongest predictor of compensation in the region, outweighing country of residence for high-experience profiles.
+- **Remote and hybrid work dominate** the LATAM tech ecosystem, with the majority of developers working fully or partially remote — a structural shift accelerated post-2020 and now consolidated as the norm.
+- **JavaScript, Python, and SQL** remain the three most widely used technologies across the region, consistent across all seniority levels.
+- **AI tool adoption is concentrated among experienced developers** — senior profiles show significantly higher AI tool usage, suggesting adoption is currently skills-gated rather than equally distributed across the workforce.
 
 ---
 
-## Interactive Dashboard
+## 🛠️ Tools & Stack
 
-[View Dashboard Here](https://datastudio.google.com/reporting/edb97cbc-affb-474e-a0f2-77ff2e6f34ad)
-
----
-
-## Dashboard Features
-
-- Dynamic country filtering
-- Seniority segmentation
-- Salary benchmarking
-- AI adoption analysis
-- Technology usage trends
-- Remote work distribution analysis
+- **Python** — Pandas, NumPy, Matplotlib
+- **Google Colab** — interactive notebook environment
+- **Looker Studio** — interactive dashboard and data visualization
+- **GitHub** — version control and portfolio presentation
+- **Data source:** [Stack Overflow Developer Survey 2024](https://survey.stackoverflow.co/2024/)
 
 ---
 
-## Dashboard Preview
-
-### Market Overview
-
-![Dashboard Overview](images/dashboard_overview.png)
-
----
-
-### Salary & Experience Analysis
-
-![Salary Analysis](images/salary_analysis.png)
-
----
-
-### AI & Technology Trends
-
-![AI Trends](images/ai_trends.png)
-
----
-
-## Project Structure
+## 🚀 How to Run
 
 ```bash
+# Clone the repository
+git clone https://github.com/vivanieugenio-hub/latam-tech-labor-market-analysis.git
+cd latam-tech-labor-market-analysis
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+1. Download the [Stack Overflow Developer Survey 2024](https://survey.stackoverflow.co/2024/) dataset
+2. Open `tech_market_analysis.ipynb` in Google Colab or Jupyter
+3. Update the data file path in the first notebook cell
+4. Run all cells
+
+---
+
+## 📁 Project Structure
+
+```
 latam-tech-labor-market-analysis/
 │
-├── data/
-├── notebooks/
-├── images/
-├── README.md
-└── requirements.txt
+├── tech_market_analysis.ipynb   # Main analysis notebook
+├── requirements.txt             # Python dependencies
+├── dashboard_overview.png       # Dashboard screenshot — market overview
+├── salary_analysis.png          # Dashboard screenshot — salary & experience
+├── ai_trends.png                # Dashboard screenshot — AI & technology trends
+└── README.md
 ```
----
-
-## Workflow
-
-Raw Survey Data
-
-↓
-
-Data Cleaning & Preprocessing (Python/Pandas)
-
-↓
-
-Exploratory Data Analysis
-
-↓
-
-Feature Engineering
-
-↓
-
-Interactive Dashboard Development (Looker Studio)
-
-↓
-
-Market Insights & Storytelling
 
 ---
 
-## Future Improvements
+## 🔗 Related Projects
 
-- Add salary distribution histograms
-- Incorporate role-specific salary analysis
-- Explore correlations between AI usage and compensation
-- Include country-level technology specialization analysis
-- Build SQL version of the analysis pipeline
+- [Argentine Labor Market Analysis — EPH](https://github.com/vivanieugenio-hub/EPH-mercado-laboral-argentina) — deep-dive into Argentine employment, informality, and wage gaps using official INDEC microdata.
+- [Argentine Inflation Analysis — CPI](https://github.com/vivanieugenio-hub/IPC-inflacion-argentina) — CPI evolution across three political periods in Argentina.
 
---- 
+---
 
-## Author
+## 👤 Author
 
-Eugenio Vivani
+**Eugenio Vivani** — Political Science & International Relations | Junior Data Analyst
 
-LinkedIn:
-https://www.linkedin.com/in/eugenio-vivani/
-
-GitHub:
-https://github.com/vivanieugenio-hub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eugenio--vivani-blue?logo=linkedin)](https://www.linkedin.com/in/eugenio-vivani)
+[![GitHub](https://img.shields.io/badge/GitHub-vivanieugenio--hub-black?logo=github)](https://github.com/vivanieugenio-hub)
